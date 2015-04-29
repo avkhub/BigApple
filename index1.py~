@@ -1,0 +1,25 @@
+import csv
+import urllib2
+import os
+from urlparse import urlparse
+import re 
+import math
+import operator
+import gzip
+from StringIO import StringIO
+import parser
+from operator import itemgetter
+
+included_rows = []
+f = open('/home/aditya/Downloads/DOHMH_Data.csv')
+csv_f = csv.reader(f)
+	  
+
+t = open(str(os.getcwd) + "rest_data.txt","w")
+#t = open('/home/aditya/web/projects/rest_index.txt','r+')
+for row in csv_f:
+	included_rows.append(row)
+	t.write(row)
+f.close()
+t.close()
+

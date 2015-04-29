@@ -1,0 +1,1286 @@
+[
+  {
+    "is_claimed": true, 
+    "distance": 608.3317557228563, 
+    "mobile_url": "http://m.yelp.com/biz/chefs-table-at-brooklyn-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 249, 
+    "name": "Chef's Table At Brooklyn", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/chefs-table-at-brooklyn-brooklyn", 
+    "categories": [
+      [
+        "American (New)", 
+        "newamerican"
+      ]
+    ], 
+    "violation_codes": [], 
+    "is_closed": false, 
+    "phone": "7182430050", 
+    "snippet_text": "My yak's brother and wife (both very much into good food and actually own a brewery and restaurant out west) were in town.  We got lucky with the...", 
+    "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/c5fHTOURBwlc9U-nm8zcXQ/ms.jpg", 
+    "location": {
+      "city": "Brooklyn", 
+      "display_address": [
+        "Brooklyn Fare", 
+        "200 Schermerhorn St", 
+        "Downtown Brooklyn", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Downtown Brooklyn", 
+        "Boerum Hill"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "Brooklyn Fare", 
+        "200 Schermerhorn St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6885011, 
+        "longitude": -73.9853009
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-243-0050", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 0, 
+    "id": "chefs-table-at-brooklyn-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/oI-wQu_v9Lru4eS0Ceaqgw/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 771.8419846542838, 
+    "mobile_url": "http://m.yelp.com/biz/govindas-vegetarian-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 79, 
+    "name": "Govinda's Vegetarian", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/govindas-vegetarian-brooklyn", 
+    "categories": [
+      [
+        "Vegetarian", 
+        "vegetarian"
+      ], 
+      [
+        "Vegan", 
+        "vegan"
+      ], 
+      [
+        "Gluten-Free", 
+        "gluten_free"
+      ]
+    ], 
+    "violation_codes": [], 
+    "is_closed": false, 
+    "phone": "7188556714", 
+    "snippet_text": "This place is truly amazing! When Yelp came up with Govindas while searching for food near work,I was not entirely sure what to expect since even though the...", 
+    "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/nqT8ztEp9XroZHjdFLS3-g/ms.jpg", 
+    "location": {
+      "cross_streets": "Nevins St & Bond St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "305 Schermerhorn St", 
+        "Downtown Brooklyn", 
+        "Brooklyn, NY 11217"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Downtown Brooklyn", 
+        "Boerum Hill"
+      ], 
+      "postal_code": "11217", 
+      "country_code": "US", 
+      "address": [
+        "305 Schermerhorn St"
+      ], 
+      "coordinate": {
+        "latitude": 40.687737, 
+        "longitude": -73.982185
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-855-6714", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 0, 
+    "id": "govindas-vegetarian-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/Rmv0yF-A8bJsK9bx0E1K6Q/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 989.9563482974174, 
+    "mobile_url": "http://m.yelp.com/biz/brooklyn-heights-promenade-brooklyn", 
+    "rating_img_url": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+    "review_count": 231, 
+    "name": "Brooklyn Heights Promenade", 
+    "rating": 5.0, 
+    "url": "http://www.yelp.com/biz/brooklyn-heights-promenade-brooklyn", 
+    "is_closed": false, 
+    "snippet_text": "One of my favorite places in Brooklyn heights!\n\nThe promenade is located between my clients and the office. So I walk the promenade atleast once a week....", 
+    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/L6CYXNuJDzmtqxLIpXISEA/ms.jpg", 
+    "categories": [
+      [
+        "Parks", 
+        "parks"
+      ]
+    ], 
+    "rating_img_url_small": "http://s3-media1.fl.yelpassets.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+    "rating_img_url_large": "http://s3-media3.fl.yelpassets.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+    "id": "brooklyn-heights-promenade-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/B0W3gA_54FNGLWRTXeH5xQ/ms.jpg", 
+    "location": {
+      "city": "Brooklyn", 
+      "display_address": [
+        "Columbia Heights", 
+        "Brooklyn Heights", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 6.0, 
+      "neighborhoods": [
+        "Brooklyn Heights"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "Columbia Heights"
+      ], 
+      "coordinate": {
+        "latitude": 40.6994286, 
+        "longitude": -73.9957886
+      }, 
+      "state_code": "NY"
+    }
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 1253.2230730449944, 
+    "mobile_url": "http://m.yelp.com/biz/brooklyn-bridge-park-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 330, 
+    "name": "Brooklyn Bridge Park", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/brooklyn-bridge-park-brooklyn", 
+    "categories": [
+      [
+        "Parks", 
+        "parks"
+      ]
+    ], 
+    "violation_codes": [], 
+    "is_closed": false, 
+    "phone": "7182229939", 
+    "snippet_text": "This is the one of the best VIEWS of the New York skyline and Brooklyn Bridge.  Parking is available just follow the map from yelp will bring you to this...", 
+    "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/Le9ghiytq0o4kerSe_t9kw/ms.jpg", 
+    "location": {
+      "city": "Brooklyn", 
+      "display_address": [
+        "Pier 1", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "Pier 1"
+      ], 
+      "coordinate": {
+        "latitude": 40.7016262778116, 
+        "longitude": -73.9972114562988
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-222-9939", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 0, 
+    "id": "brooklyn-bridge-park-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/smwbKDgZqqGBnXVR5d3sUQ/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-718-451-3800", 
+    "id": "forno-rosso-pizzeria-downtown-brooklyn-5", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/forno-rosso-pizzeria-downtown-brooklyn-5", 
+    "review_count": 124, 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/viwOO6nyU6eS6eqtA6nK6A/ms.jpg", 
+    "violation_codes": [
+      "20D", 
+      " 22A", 
+      " 22C", 
+      " 06D"
+    ], 
+    "location": {
+      "cross_streets": "Tech Pl & Johnson St", 
+      "city": "Downtown Brooklyn", 
+      "display_address": [
+        "327 Gold St", 
+        "Downtown Brooklyn", 
+        "Downtown Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Downtown Brooklyn"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "327 Gold St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6942770878848, 
+        "longitude": -73.9832165767279
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "7184513800", 
+    "snippet_text": "My three dinners hosted by Chef Giuseppe Marrone have been a blessing and a privilege. \n\nAs someone who works in my own business, I respect and appreciate...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Pizza", 
+        "pizza"
+      ]
+    ], 
+    "distance": 269.37440912424296, 
+    "name": "Forno Rosso Pizzeria", 
+    "url": "http://www.yelp.com/biz/forno-rosso-pizzeria-downtown-brooklyn-5", 
+    "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/-EpIus5QBKQnvCfvzcOKow/ms.jpg", 
+    "violation_score": 7, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1430248112
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-718-852-8758", 
+    "id": "sottocasa-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/sottocasa-brooklyn", 
+    "review_count": 302, 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/pqQKHWXC1uODwaEzxax9iA/ms.jpg", 
+    "violation_codes": [
+      "02G", 
+      " 06C", 
+      " 04L", 
+      " 08A", 
+      " 10F", 
+      " 06B", 
+      " 06D", 
+      " 10E", 
+      " 10H", 
+      " 10A", 
+      " 10B"
+    ], 
+    "location": {
+      "cross_streets": "Hoyt St & Smith St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "298 Atlantic Ave", 
+        "Cobble Hill", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Cobble Hill", 
+        "Boerum Hill"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "298 Atlantic Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6882629394531, 
+        "longitude": -73.9890289306641
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "7188528758", 
+    "snippet_text": "Sottocasa blew away my expectations. As I was leaving, I thought, \"Wow. I haven't written a review in over two years but this place seriously deserves the...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Pizza", 
+        "pizza"
+      ], 
+      [
+        "Italian", 
+        "italian"
+      ]
+    ], 
+    "distance": 666.7057155491377, 
+    "name": "Sottocasa", 
+    "url": "http://www.yelp.com/biz/sottocasa-brooklyn", 
+    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/tED2xd7BiwP7Jq2yte1_SQ/ms.jpg", 
+    "violation_score": 89, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387746863
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-935-0575", 
+    "id": "ki-sushi-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/ki-sushi-brooklyn", 
+    "review_count": 481, 
+    "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/cIK8VM4y6MJ3kUpDpPZjjQ/ms.jpg", 
+    "violation_codes": [
+      "04C", 
+      " 06A", 
+      " 09A", 
+      " 10F", 
+      " 15L", 
+      " 02B", 
+      " 04K", 
+      " 08A", 
+      " 06E", 
+      " 02G", 
+      " 06C"
+    ], 
+    "location": {
+      "cross_streets": "Dean St & Pacific St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "122 Smith St", 
+        "Cobble Hill", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Cobble Hill", 
+        "Boerum Hill"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "122 Smith St"
+      ], 
+      "coordinate": {
+        "latitude": 40.687645, 
+        "longitude": -73.990105
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7189350575", 
+    "snippet_text": "Fresh, delicious, finger licking sushi! I will definitely go back for more. We had TNT - AMAZING! Ki roll, spicy girl and one more. I think all of their...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Sushi Bars", 
+        "sushi"
+      ], 
+      [
+        "Japanese", 
+        "japanese"
+      ]
+    ], 
+    "distance": 764.6010501143319, 
+    "name": "Ki Sushi", 
+    "url": "http://www.yelp.com/biz/ki-sushi-brooklyn", 
+    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/kf_Z38PcXlxvh5k1wYyLAA/ms.jpg", 
+    "violation_score": 95, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387626840
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 522.3520353284571, 
+    "mobile_url": "http://m.yelp.com/biz/don-nicos-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 37, 
+    "name": "Don Nico's", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/don-nicos-brooklyn", 
+    "categories": [
+      [
+        "Mexican", 
+        "mexican"
+      ], 
+      [
+        "Food Stands", 
+        "foodstands"
+      ]
+    ], 
+    "violation_codes": [], 
+    "is_closed": false, 
+    "phone": "7182880107", 
+    "snippet_text": "Yum! we only got a cheese quesadilla as they were out of almost every meat choice by 3:30pm on a Monday. Glad we stumbled upon this place. I'll have to...", 
+    "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/qHTN8vyJ0ze8EMPEpLYCIA/ms.jpg", 
+    "location": {
+      "city": "Brooklyn", 
+      "display_address": [
+        "9-43 Dekalb Ave", 
+        "Downtown Brooklyn", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Downtown Brooklyn"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "9-43 Dekalb Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6902172505172, 
+        "longitude": -73.9825471182377
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-288-0107", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 0, 
+    "id": "don-nicos-brooklyn", 
+    "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/TS-If7HxT7XdSZ4lm2NF2g/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 1440.6307739584809, 
+    "mobile_url": "http://m.yelp.com/biz/brooklyn-bridge-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 886, 
+    "name": "Brooklyn Bridge", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/brooklyn-bridge-brooklyn", 
+    "is_closed": false, 
+    "snippet_text": "It wasn't until we walked the Brooklyn bridge that I truly realized how massive/overwhelming/beautiful that the NYC skyline is.\n\nWhen you imagine \"New York...", 
+    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/JMJDrhQ_B7pddEfeXwH0FQ/ms.jpg", 
+    "categories": [
+      [
+        "Landmarks & Historical Buildings", 
+        "landmarks"
+      ]
+    ], 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "id": "brooklyn-bridge-brooklyn", 
+    "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/_69pHjCBtrdFrcUUxVqAjw/ms.jpg", 
+    "location": {
+      "city": "Brooklyn", 
+      "display_address": [
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [], 
+      "coordinate": {
+        "latitude": 40.704847145301, 
+        "longitude": -73.9955377578735
+      }, 
+      "state_code": "NY"
+    }
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-718-596-6700", 
+    "id": "julianas-pizza-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/julianas-pizza-brooklyn", 
+    "review_count": 542, 
+    "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/iyVQUigCVvWzgnTpNaCyuQ/ms.jpg", 
+    "violation_codes": [], 
+    "location": {
+      "city": "Brooklyn", 
+      "display_address": [
+        "19 Old Fulton St", 
+        "DUMBO", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "DUMBO"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "19 Old Fulton St"
+      ], 
+      "coordinate": {
+        "latitude": 40.7025851365081, 
+        "longitude": -73.9935619790676
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "7185966700", 
+    "snippet_text": "This place, hand down, best pizza we had on our trip to NY. I had found this restaurant as one of the top places to eat in Brooklyn. So my fianc\u00e9 and I...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Pizza", 
+        "pizza"
+      ], 
+      [
+        "American (Traditional)", 
+        "tradamerican"
+      ]
+    ], 
+    "distance": 1139.031728544677, 
+    "name": "Juliana's Pizza", 
+    "url": "http://www.yelp.com/biz/julianas-pizza-brooklyn", 
+    "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/2MN0FP1Ni5tVKp7OpfkaRQ/ms.jpg", 
+    "violation_score": 0, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387771090
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-834-9533", 
+    "id": "yemen-cafe-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/yemen-cafe-brooklyn", 
+    "review_count": 173, 
+    "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/FZnkg4j_WUm0nsMOI3APyA/ms.jpg", 
+    "violation_codes": [
+      "02G", 
+      " 10F", 
+      " 04N", 
+      " 06C", 
+      " 08A", 
+      " 10B", 
+      " 10C", 
+      " 06B", 
+      " 06D"
+    ], 
+    "location": {
+      "cross_streets": "Court St & Clinton St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "176 Atlantic Ave", 
+        "Cobble Hill", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Cobble Hill", 
+        "Brooklyn Heights"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "176 Atlantic Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.690116, 
+        "longitude": -73.993726
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7188349533", 
+    "snippet_text": "This spot has some seriously good food and you know that when it advertises that they open until 11PM on the weekends but the kitchen was still serving food...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Middle Eastern", 
+        "mideastern"
+      ], 
+      [
+        "Arabian", 
+        "arabian"
+      ], 
+      [
+        "Halal", 
+        "halal"
+      ]
+    ], 
+    "distance": 749.7895307167389, 
+    "name": "Yemen Cafe", 
+    "url": "http://www.yelp.com/biz/yemen-cafe-brooklyn", 
+    "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/pIypLaU3S475lwzTf0yT7g/ms.jpg", 
+    "violation_score": 87, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387633124
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-718-422-7878", 
+    "id": "piz-zetta-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/piz-zetta-brooklyn", 
+    "review_count": 71, 
+    "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Fy3x0KaTducN13qTKh7MVw/ms.jpg", 
+    "violation_codes": [
+      "04N", 
+      " 08A", 
+      " 10H", 
+      " 02G", 
+      " 10F", 
+      " 02B", 
+      " 06D"
+    ], 
+    "location": {
+      "cross_streets": "Boerum Pl & Court Sq", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "90 Livingston St", 
+        "Brooklyn Heights", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Brooklyn Heights"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "90 Livingston St"
+      ], 
+      "coordinate": {
+        "latitude": 40.691104, 
+        "longitude": -73.990737
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "7184227878", 
+    "snippet_text": "There are three reasons why I give this 5 stars...which I rarely give 5 stars.  \n1) They offer the option of online ordering (delivery and take-out) through...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Italian", 
+        "italian"
+      ], 
+      [
+        "Pizza", 
+        "pizza"
+      ]
+    ], 
+    "distance": 482.35839970533846, 
+    "name": "Piz-zetta", 
+    "url": "http://www.yelp.com/biz/piz-zetta-brooklyn", 
+    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/I9NM9Fu12sQCMymUNbg_bw/ms.jpg", 
+    "violation_score": 42, 
+    "menu_provider": "eat24", 
+    "menu_date_updated": 1422472612
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-307-7590", 
+    "id": "shake-shack-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/shake-shack-brooklyn", 
+    "review_count": 522, 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/qMaTMOuuzgYN1diNaFUoNA/ms.jpg", 
+    "violation_codes": [], 
+    "location": {
+      "cross_streets": "Court Sq & Red Hook Ln", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "409 Fulton St", 
+        "Brooklyn Heights", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Brooklyn Heights", 
+        "Downtown Brooklyn"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "409 Fulton St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6919746, 
+        "longitude": -73.9883194
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7183077590", 
+    "snippet_text": "Shackmeister burger recommended. New and made with Angus beef. Also try their custard for dessert. They change their custard dessert every month. For the...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Burgers", 
+        "burgers"
+      ], 
+      [
+        "Ice Cream & Frozen Yogurt", 
+        "icecream"
+      ]
+    ], 
+    "distance": 292.0838764559866, 
+    "name": "Shake Shack", 
+    "url": "http://www.yelp.com/biz/shake-shack-brooklyn", 
+    "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/dFB6jP56GiYHd6ScXngTcA/ms.jpg", 
+    "violation_score": 0, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387744992
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 1179.585735522484, 
+    "mobile_url": "http://m.yelp.com/biz/red-lantern-bicycles-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 107, 
+    "name": "Red Lantern Bicycles", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/red-lantern-bicycles-brooklyn", 
+    "categories": [
+      [
+        "Bikes", 
+        "bikes"
+      ], 
+      [
+        "Coffee & Tea", 
+        "coffee"
+      ], 
+      [
+        "Bars", 
+        "bars"
+      ]
+    ], 
+    "violation_codes": [
+      "10F", 
+      " 06A", 
+      " 06D", 
+      " 06C", 
+      " 10B", 
+      " 04O", 
+      " 04N", 
+      " 08A", 
+      " 02G", 
+      " 99B", 
+      " 10A"
+    ], 
+    "is_closed": false, 
+    "phone": "3478895338", 
+    "snippet_text": "Recently relocated to Brooklyn and trying out all the coffee shops and cafes.  \nRed lantern is a warm and inviting coffee shop.  \nA cool, laid back place,...", 
+    "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/PLpi_G5KDbhWqgWpV9ujSQ/ms.jpg", 
+    "location": {
+      "cross_streets": "Carlton Ave & Adelphi St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "345 Myrtle Ave", 
+        "Fort Greene", 
+        "Brooklyn, NY 11205"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Fort Greene"
+      ], 
+      "postal_code": "11205", 
+      "country_code": "US", 
+      "address": [
+        "345 Myrtle Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6934509, 
+        "longitude": -73.9724197
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-347-889-5338", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 75, 
+    "id": "red-lantern-bicycles-brooklyn", 
+    "snippet_image_url": "http://s3-media3.fl.yelpassets.com/photo/3gBYgNaakhKnx6rfwHdFDw/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-858-6818", 
+    "id": "hancos-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/hancos-brooklyn", 
+    "review_count": 402, 
+    "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Y9qWc73twuTCRBO2xapq7A/ms.jpg", 
+    "violation_codes": [
+      "04D", 
+      " 10F", 
+      " 02G", 
+      " 10J"
+    ], 
+    "location": {
+      "cross_streets": "Dean St & Bergen St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "134 Smith St", 
+        "Cobble Hill", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Cobble Hill", 
+        "Boerum Hill"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "134 Smith St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6870318621828, 
+        "longitude": -73.9904292380982
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7188586818", 
+    "snippet_text": "Hancos is pretty awesome. They used to be around the corner at a hole in the wall next to van leeuwen.  But New Yorkers have a way of discovering a good...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Vietnamese", 
+        "vietnamese"
+      ], 
+      [
+        "Sandwiches", 
+        "sandwiches"
+      ], 
+      [
+        "Bubble Tea", 
+        "bubbletea"
+      ]
+    ], 
+    "distance": 837.8270822639239, 
+    "name": "Hanco's", 
+    "url": "http://www.yelp.com/biz/hancos-brooklyn", 
+    "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/jiyGrcCI7nQBEJY8FPTXVg/ms.jpg", 
+    "violation_score": 23, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387631996
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 664.0111684204986, 
+    "mobile_url": "http://m.yelp.com/biz/two-8-two-brooklyn", 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 372, 
+    "name": "Two 8 Two", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/two-8-two-brooklyn", 
+    "categories": [
+      [
+        "Burgers", 
+        "burgers"
+      ], 
+      [
+        "Bars", 
+        "bars"
+      ]
+    ], 
+    "violation_codes": [
+      "04L", 
+      " 08A", 
+      " 10F", 
+      " 22A", 
+      " 06C", 
+      " 10B", 
+      " 02G", 
+      " 10H", 
+      " 10I", 
+      " 08C", 
+      " 22C", 
+      " 04H", 
+      " 04N", 
+      " 06D", 
+      " 16B", 
+      " 15I", 
+      " 15L", 
+      " 20D"
+    ], 
+    "is_closed": false, 
+    "phone": "7185962282", 
+    "snippet_text": "Love love love the Billy burger with lettuce, tomato, and onion. They cook it to your liking and it comes with a \"two8two\" sauce that's tangy and delicious....", 
+    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/ibY5Er96BWCygp-eWne2jg/ms.jpg", 
+    "location": {
+      "cross_streets": "Boerum Pl & Smith St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "282 Atlantic Ave", 
+        "Cobble Hill", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Cobble Hill", 
+        "Boerum Hill"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "282 Atlantic Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.688515, 
+        "longitude": -73.989746
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-596-2282", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "violation_score": 115, 
+    "id": "two-8-two-brooklyn", 
+    "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/spi0F4AbYP_XdzhzQmIv4g/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-596-5955", 
+    "id": "queen-italian-restaurant-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/queen-italian-restaurant-brooklyn", 
+    "review_count": 167, 
+    "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/aXGhyRxU_ZjvmXo2nOJ9rg/ms.jpg", 
+    "violation_codes": [], 
+    "location": {
+      "cross_streets": "Livingston St & Schermerhorn St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "84 Court St", 
+        "Brooklyn Heights", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Brooklyn Heights"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "84 Court St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6913605, 
+        "longitude": -73.9918976
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": false, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7185965955", 
+    "snippet_text": "My boyfriend & I met in downtown Brooklyn. We had date night yesterday in downtown Brooklyn near where we first met. We saw a movie & decided to try out...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Italian", 
+        "italian"
+      ]
+    ], 
+    "distance": 540.7206331292576, 
+    "name": "Queen Italian Restaurant", 
+    "url": "http://www.yelp.com/biz/queen-italian-restaurant-brooklyn", 
+    "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/udxli6cbdlkiK4bR_dSlLA/ms.jpg", 
+    "violation_score": 0, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387513098
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-858-8517", 
+    "id": "iron-chef-house-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/iron-chef-house-brooklyn", 
+    "review_count": 238, 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/PHvWwFU0yt33EDSO3xdfxQ/ms.jpg", 
+    "violation_codes": [
+      "02B", 
+      " 10F", 
+      " 04L", 
+      " 06A", 
+      " 06D", 
+      " 08A", 
+      " 09B", 
+      " 02G", 
+      " 04M", 
+      " 04N", 
+      " 06C", 
+      " 06F", 
+      " 10B", 
+      " 04A", 
+      " 10H", 
+      " 06E"
+    ], 
+    "location": {
+      "cross_streets": "Monroe Pl & Henry St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "92 Clark St", 
+        "Brooklyn Heights", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Brooklyn Heights"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "92 Clark St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6972664717136, 
+        "longitude": -73.9925980567932
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": false, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7188588517", 
+    "snippet_text": "This was great! I came here with two of my coworkers for the lunch specials. It was late and I was REALLY hungry, so I got the sashimi +sushi plate with an...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Sushi Bars", 
+        "sushi"
+      ]
+    ], 
+    "distance": 643.7873381334314, 
+    "name": "Iron Chef House", 
+    "url": "http://www.yelp.com/biz/iron-chef-house-brooklyn", 
+    "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/bBerv4rVbyneNhyTpsUV2Q/ms.jpg", 
+    "violation_score": 199, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1390505590
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 1193.0928146462757, 
+    "mobile_url": "http://m.yelp.com/biz/empire-fulton-ferry-state-park-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 47, 
+    "name": "Empire-Fulton Ferry State Park", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/empire-fulton-ferry-state-park-brooklyn", 
+    "categories": [
+      [
+        "Parks", 
+        "parks"
+      ]
+    ], 
+    "violation_codes": [], 
+    "is_closed": false, 
+    "phone": "7188584708", 
+    "snippet_text": "I visited this park on a sunny September afternoon. It's situated between the Brooklyn and Manhattan bridge. After a brisk walk across the Brooklyn bridge,...", 
+    "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/uxFXiWNsSBD1pRrtJGvkQg/ms.jpg", 
+    "location": {
+      "cross_streets": "Brooklyn Brg & Water St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "26 New Dock St", 
+        "DUMBO", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "DUMBO"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "26 New Dock St"
+      ], 
+      "coordinate": {
+        "latitude": 40.7040405, 
+        "longitude": -73.9935684
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-858-4708", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 0, 
+    "id": "empire-fulton-ferry-state-park-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpassets.com/photo/tBKytXOd0f4mDY4z7KLyDQ/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-917-435-3745", 
+    "id": "lulu-and-po-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/lulu-and-po-brooklyn", 
+    "review_count": 106, 
+    "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/HbD9tE-sZbpSjwIYNJQDtQ/ms.jpg", 
+    "violation_codes": [
+      "02G", 
+      " 04J", 
+      " 06D", 
+      " 06B", 
+      " 10F", 
+      " 04N", 
+      " 08A", 
+      " 06E", 
+      " 10H", 
+      " 02B", 
+      " 04H", 
+      " 04L", 
+      " 06A", 
+      " 10B", 
+      " 06C", 
+      " 10D", 
+      " 20D"
+    ], 
+    "location": {
+      "cross_streets": "Willoughby Ave & Myrtle Ave", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "154 Carlton Ave", 
+        "Fort Greene", 
+        "Brooklyn, NY 11205"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Fort Greene"
+      ], 
+      "postal_code": "11205", 
+      "country_code": "US", 
+      "address": [
+        "154 Carlton Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6928864, 
+        "longitude": -73.9729538
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "9174353745", 
+    "snippet_text": "Despite an awkward welcoming, our experience at Lulu and Po's was deeply enjoyable, service included. The cilantro jalape\u00f1o sauce that accompanies the...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "American (Traditional)", 
+        "tradamerican"
+      ]
+    ], 
+    "distance": 1135.3660013741646, 
+    "name": "Lulu & Po", 
+    "url": "http://www.yelp.com/biz/lulu-and-po-brooklyn", 
+    "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/66fPZMGmmPtkhDLyjyC5Og/ms.jpg", 
+    "violation_score": 131, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1429938020
+  }
+]ely helpful.  We...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "American (New)", 
+        "newamerican"
+      ], 
+      [
+        "Bars", 
+        "bars"
+      ]
+    ], 
+    "distance": 865.2186711754047, 
+    "name": "Colonie", 
+    "url": "http://www.yelp.com/biz/colonie-brooklyn", 
+    "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/InUL4f3POIQXMycVdhJUxQ/ms.jpg", 
+    "violation_score": 123, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1429352769
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-222-3484", 
+    "id": "joya-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/joya-brooklyn", 
+    "review_count": 836, 
+    "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/nejILr9NozTQpItjOZHT5g/ms.jpg", 
+    "violation_codes": [
+      "02G", 
+      " 04L", 
+      " 06C", 
+      " 08A", 
+      " 16B", 
+      " 10B", 
+      " 15L", 
+      " 20F", 
+      " 04H", 
+      " 04N", 
+      " 06E", 
+      " 06F", 
+      " 06A", 
+      " 08C", 
+      " 10F", 
+      " 10J", 
+      " 04C", 
+      " 06D"
+    ], 
+    "location": {
+      "cross_streets": "Warren St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "215 Court St", 
+        "Cobble Hill", 
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Cobble Hill"
+      ], 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [
+        "215 Court St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6866608, 
+        "longitude": -73.9934921
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7182223484", 
+    "snippet_text": "It's been a really long time since I've had good Thai food, but I had it at Joya, and I'm so freaking glad I did.\n\nI came here with a friend after a long...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Thai", 
+        "thai"
+      ]
+    ], 
+    "distance": 1008.8153548052619, 
+    "name": "Joya", 
+    "url": "http://www.yelp.com/biz/joya-brooklyn", 
+    "image_url": "http://s3-media1.fl.yelpassets.com/bphoto/atpo4cPBkAbwQ2ZxqdcCkw/ms.jpg", 
+    "violation_score": 131, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387513079
+  }
+]2.0700779551897, 
+    "name": "Alta", 
+    "url": "http://www.yelp.com/biz/alta-new-york", 
+    "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/65OYii7ZTGpOlpIM_VMzlw/ms.jpg", 
+    "violation_score": 97, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387621382
+  }
+]
