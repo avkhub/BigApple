@@ -62,7 +62,7 @@ def request(host, path, url_params=None):
 	return response
 
 
-def search(lat, lon):
+def search():
 	"""Query the Search API by a search term and location.
 	Args:
 	term (str): The search term passed to the API.
@@ -91,14 +91,14 @@ def get_business(business_id):
 	"""
 	business_path = BUSINESS_PATH + business_id
 	return request(API_HOST, business_path)
-def query_api(lat,csv_f):
+def query_api(csv_f):
 	"""Queries the API by the input values from the user.
 	Args:
 	term (str): The search term to query.
 	location (str): The location of the business to query.
 	"""
 	lon = None
-	response = search(lat, lon)
+	response = search()
 	businesses = response.get('businesses')
 	
 	
@@ -152,10 +152,10 @@ def query_api(lat,csv_f):
 
 app = Flask(__name__)
 
-@app.route("/location/<lat>")
+@app.route("/")
 
 
-def main(lat = None ):
+def main():
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-q', '--term', dest='term', default=DEFAULT_TERM, type=str, help='Search term (default: %(default)s)')
 	parser.add_argument('-l', '--location', dest='location', default=DEFAULT_LOCATION, type=str, help='Search location (default: %(default)s)')
@@ -164,7 +164,7 @@ def main(lat = None ):
  #print (input_values.term, input_values.location)
  		f = open('/home/aditya/Downloads/DOHMH.csv')
  		csv_f = csv.reader(f)
- 		out_onpage = query_api(lat, csv_f)
+ 		out_onpage = query_api(csv_f)
  		return jsonify(results=out_onpage)
 	except urllib2.HTTPError as error:
  		sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))
