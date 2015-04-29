@@ -449,44 +449,6 @@
     "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
   }, 
   {
-    "is_claimed": true, 
-    "distance": 1440.6307739584809, 
-    "mobile_url": "http://m.yelp.com/biz/brooklyn-bridge-brooklyn", 
-    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 886, 
-    "name": "Brooklyn Bridge", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/brooklyn-bridge-brooklyn", 
-    "is_closed": false, 
-    "snippet_text": "It wasn't until we walked the Brooklyn bridge that I truly realized how massive/overwhelming/beautiful that the NYC skyline is.\n\nWhen you imagine \"New York...", 
-    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/JMJDrhQ_B7pddEfeXwH0FQ/ms.jpg", 
-    "categories": [
-      [
-        "Landmarks & Historical Buildings", 
-        "landmarks"
-      ]
-    ], 
-    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "id": "brooklyn-bridge-brooklyn", 
-    "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/_69pHjCBtrdFrcUUxVqAjw/ms.jpg", 
-    "location": {
-      "city": "Brooklyn", 
-      "display_address": [
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [], 
-      "coordinate": {
-        "latitude": 40.704847145301, 
-        "longitude": -73.9955377578735
-      }, 
-      "state_code": "NY"
-    }
-  }, 
-  {
     "rating": 4.5, 
     "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
     "display_phone": "+1-718-596-6700", 
@@ -540,6 +502,44 @@
     "violation_score": 0, 
     "menu_provider": "single_platform", 
     "menu_date_updated": 1387771090
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 1440.6307739584809, 
+    "mobile_url": "http://m.yelp.com/biz/brooklyn-bridge-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 886, 
+    "name": "Brooklyn Bridge", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/brooklyn-bridge-brooklyn", 
+    "is_closed": false, 
+    "snippet_text": "It wasn't until we walked the Brooklyn bridge that I truly realized how massive/overwhelming/beautiful that the NYC skyline is.\n\nWhen you imagine \"New York...", 
+    "image_url": "http://s3-media3.fl.yelpassets.com/bphoto/JMJDrhQ_B7pddEfeXwH0FQ/ms.jpg", 
+    "categories": [
+      [
+        "Landmarks & Historical Buildings", 
+        "landmarks"
+      ]
+    ], 
+    "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "id": "brooklyn-bridge-brooklyn", 
+    "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/_69pHjCBtrdFrcUUxVqAjw/ms.jpg", 
+    "location": {
+      "city": "Brooklyn", 
+      "display_address": [
+        "Brooklyn, NY 11201"
+      ], 
+      "geo_accuracy": 9.5, 
+      "postal_code": "11201", 
+      "country_code": "US", 
+      "address": [], 
+      "coordinate": {
+        "latitude": 40.704847145301, 
+        "longitude": -73.9955377578735
+      }, 
+      "state_code": "NY"
+    }
   }, 
   {
     "rating": 4.0, 
@@ -619,7 +619,7 @@
     "id": "piz-zetta-brooklyn", 
     "is_closed": false, 
     "mobile_url": "http://m.yelp.com/biz/piz-zetta-brooklyn", 
-    "review_count": 71, 
+    "review_count": 72, 
     "snippet_image_url": "http://s3-media2.fl.yelpassets.com/photo/Fy3x0KaTducN13qTKh7MVw/ms.jpg", 
     "violation_codes": [
       "04N", 
