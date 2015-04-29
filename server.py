@@ -156,7 +156,7 @@ app = Flask(__name__)
 
 
 def main():
-	parser = argparse.ArgumentParser()
+	'''parser = argparse.ArgumentParser()
 	parser.add_argument('-q', '--term', dest='term', default=DEFAULT_TERM, type=str, help='Search term (default: %(default)s)')
 	parser.add_argument('-l', '--location', dest='location', default=DEFAULT_LOCATION, type=str, help='Search location (default: %(default)s)')
 	input_values = parser.parse_args()
@@ -167,9 +167,9 @@ def main():
  		out_onpage = query_api(csv_f)
  		return jsonify(results=out_onpage)
 	except urllib2.HTTPError as error:
- 		sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))
+ 		sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))'''
 
- 	
+ 	return "hello world"
 
 if __name__ == "__main__":
     app.run(debug = True)
