@@ -494,7 +494,7 @@
     "is_closed": false, 
     "mobile_url": "http://m.yelp.com/biz/julianas-pizza-brooklyn", 
     "review_count": 542, 
-    "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/iyVQUigCVvWzgnTpNaCyuQ/ms.jpg", 
+    "snippet_image_url": "http://s3-media1.fl.yelpassets.com/photo/huE2YtfiJads_k1l9sd24A/ms.jpg", 
     "violation_codes": [], 
     "location": {
       "city": "Brooklyn", 
@@ -521,7 +521,7 @@
     "is_claimed": true, 
     "rating_img_url_small": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
     "phone": "7185966700", 
-    "snippet_text": "This place, hand down, best pizza we had on our trip to NY. I had found this restaurant as one of the top places to eat in Brooklyn. So my fianc\u00e9 and I...", 
+    "snippet_text": "A tale of how not to eat pizza in New York, as demonstrated by the throngs of tourists waiting outside and the fact that it took me a longer time to sit...", 
     "rating_img_url_large": "http://s3-media4.fl.yelpassets.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
     "categories": [
       [
@@ -1184,6 +1184,7 @@
     "menu_provider": "single_platform", 
     "menu_date_updated": 1429938020
   }
+] }
 ]ely helpful.  We...", 
     "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
     "categories": [

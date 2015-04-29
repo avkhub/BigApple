@@ -1,1 +1,1 @@
-web: gunicorn -w 4 -b 127.0.0.1:4000 server:app 
+web: python server.py
