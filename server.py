@@ -152,11 +152,12 @@ def query_api(csv_f):
 
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/location/<lat>")
 
 
-def main():
-	'''parser = argparse.ArgumentParser()
+def main(lat = None):
+	print lat
+	parser = argparse.ArgumentParser()
 	parser.add_argument('-q', '--term', dest='term', default=DEFAULT_TERM, type=str, help='Search term (default: %(default)s)')
 	parser.add_argument('-l', '--location', dest='location', default=DEFAULT_LOCATION, type=str, help='Search location (default: %(default)s)')
 	input_values = parser.parse_args()
@@ -166,10 +167,9 @@ def main():
  		csv_f = csv.reader(f)
  		out_onpage = query_api(csv_f)
  		return jsonify(results=out_onpage)
+ 		print lat
 	except urllib2.HTTPError as error:
- 		sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))'''
-
- 	return "hello world"
+ 		sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))
 
 if __name__ == "__main__":
     app.run(debug = True)
