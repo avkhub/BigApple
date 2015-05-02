@@ -1,5 +1,7 @@
 from flask import Flask
+from flask import request
 from flask import jsonify
+from difflib import SequenceMatcher
 import argparse
 import json
 import pprint
@@ -13,7 +15,7 @@ import csv
 import socket
 
 API_HOST = 'api.yelp.com'
-DEFAULT_TERM = 'dinner'
+DEFAULT_TERM = 'restaurants'
 DEFAULT_LOCATION = 'Newyork, NY'
 SEARCH_LIMIT = 20
 SEARCH_PATH = '/v2/search/'
@@ -23,6 +25,12 @@ CONSUMER_KEY = "YyxPpfcHzWoMafYXCxMNew"
 CONSUMER_SECRET = "Y_4w9viUCaJB0DSpJKgkbD4dqOk"
 TOKEN = "yZ1weFpd9FAk-5Ej8jilKuMGvK6v6-7j"
 TOKEN_SECRET = "U9hpSGKWyoPjKTtTt34I-8qJw7Y"
+
+def similar(a,b):
+	return SequenceMatcher(None, a , b).ratio()
+
+
+
 
 def request(host, path, url_params=None):
 
@@ -62,7 +70,7 @@ def request(host, path, url_params=None):
 	return response
 
 
-def search():
+def search(lat , lon):
 	"""Query the Search API by a search term and location.
 	Args:
 	term (str): The search term passed to the API.
@@ -73,7 +81,7 @@ def search():
 	url_params = {
 	#'term': term.replace(' ', '+'),
 	#'location': location.replace(' ', '+'),
-	'll':"40.693911"+ "," + "-73.986375",
+	'll': lat + "," + lon,
 	'limit': SEARCH_LIMIT
 	
 	}
@@ -91,14 +99,14 @@ def get_business(business_id):
 	"""
 	business_path = BUSINESS_PATH + business_id
 	return request(API_HOST, business_path)
-def query_api(csv_f):
+def query_api(lat,lon,csv_f):
 	"""Queries the API by the input values from the user.
 	Args:
 	term (str): The search term to query.
 	location (str): The location of the business to query.
 	"""
-	lon = None
-	response = search()
+	
+	response = search(lat,lon)
 	businesses = response.get('businesses')
 	
 	
@@ -121,22 +129,27 @@ def query_api(csv_f):
 		phone = item['phone']
 		pincode = item['location']['postal_code']
 		door_num = item['location']['address'][0].split()[0]
+		boro = item['location']['address'][0].split()[1]
+		name = item['name']
 		score = 0
 		violation_code = []
-		#violation_codes = [] 
+		name_s = name
+		boro_s = boro
 		for row in included_rows:
 			
-			if ((phone == row[6]) and (pincode == row[5]) and (door_num == row[3])):	
-				#print row[13]
-				violation_code = row[10]
-				print violation_code
-				#calculating violation score
-
-				score_list = row[13].split(',')
-				#print score_list
-				for item_s in score_list:
-					score = score + int(item_s)
-				violation_code = violation_code.split(',')
+			if((pincode == row[5]) and (door_num == row[3])):					
+				
+			   	 #similarity = SequenceMatcher(None,name,row[1]).ratio()
+				 if((row[1].split()[0].lower() in name_s.lower() )==True):
+				 	
+				 	violation_code = row[10]
+				 	#calculating violation score
+				 	print violation_code
+					score_list = row[13].split(',')
+					#print score_list
+					for item_s in score_list:
+						score = score + int(item_s)
+					violation_code = violation_code.split(',')
 		item['violation_score'] = score
 		item['violation_codes'] = violation_code
 		#print item
@@ -152,11 +165,15 @@ def query_api(csv_f):
 
 app = Flask(__name__)
 
-@app.route("/location/<lat>")
+@app.route("/location/<lat>/<lon>")
 
 
-def main(lat = None):
-	print lat
+def main(lat = None , lon = None):
+	
+	#lon = request.Args.get("lon")
+	print lat 
+	print lon
+	#print lon
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-q', '--term', dest='term', default=DEFAULT_TERM, type=str, help='Search term (default: %(default)s)')
 	parser.add_argument('-l', '--location', dest='location', default=DEFAULT_LOCATION, type=str, help='Search location (default: %(default)s)')
@@ -165,13 +182,11 @@ def main(lat = None):
  #print (input_values.term, input_values.location)
  		f = open('/home/aditya/Downloads/DOHMH.csv')
  		csv_f = csv.reader(f)
- 		out_onpage = query_api(csv_f)
+ 		out_onpage = query_api(lat,lon,csv_f)
  		return jsonify(results=out_onpage)
- 		print lat
 	except urllib2.HTTPError as error:
  		sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))
 
 if __name__ == "__main__":
     app.run(debug = True)
-    port = int(os.environ.get("PORT", 5780))
-    app.run(host='0.0.0.0', port=port)
+    

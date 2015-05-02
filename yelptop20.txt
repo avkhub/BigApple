@@ -1,985 +1,1031 @@
 [
   {
-    "is_claimed": true, 
-    "distance": 608.3317557228563, 
-    "mobile_url": "http://m.yelp.com/biz/chefs-table-at-brooklyn-brooklyn", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 249, 
-    "name": "Chef's Table At Brooklyn", 
     "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/chefs-table-at-brooklyn-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-212-554-1515", 
+    "id": "le-bernardin-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/le-bernardin-new-york", 
+    "review_count": 1497, 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/oHTqB1ZnspUkibwXkM5QEg/ms.jpg", 
+    "violation_codes": [], 
+    "location": {
+      "city": "New York", 
+      "display_address": [
+        "The Equitable Bldg", 
+        "155 W 51st St", 
+        "Theater District", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Theater District", 
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "The Equitable Bldg", 
+        "155 W 51st St"
+      ], 
+      "coordinate": {
+        "latitude": 40.761557, 
+        "longitude": -73.981763
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "2125541515", 
+    "snippet_text": "Le Bernardin.  3 Michelin Stars since 2005. #21 on The San Pellegrino's 2014 World's 50 Best Restaurants.  #19 in 2012/13. #18 in 2011. #15 in 2010/09.  #20...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
     "categories": [
+      [
+        "Seafood", 
+        "seafood"
+      ], 
+      [
+        "French", 
+        "french"
+      ]
+    ], 
+    "distance": 289.054269291985, 
+    "name": "Le Bernardin", 
+    "url": "http://www.yelp.com/biz/le-bernardin-new-york", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/nBMxdpLhU-WyTS2vZu887w/ms.jpg", 
+    "violation_score": 0, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1418801404
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-212-823-9335", 
+    "id": "per-se-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/per-se-new-york", 
+    "review_count": 957, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/QwpA4MxQvDSSaMAFALBbSg/ms.jpg", 
+    "violation_codes": [
+      "02G", 
+      " 20E", 
+      " 02B", 
+      " 06B", 
+      " 10F", 
+      " 06H", 
+      " 10H", 
+      " 04H", 
+      " 06C", 
+      " 06A", 
+      " 06I", 
+      " 99B"
+    ], 
+    "location": {
+      "cross_streets": "W Central Park & Broadway", 
+      "city": "New York", 
+      "display_address": [
+        "10 Columbus Circle", 
+        "Hell's Kitchen", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Hell's Kitchen", 
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "10 Columbus Circle"
+      ], 
+      "coordinate": {
+        "latitude": 40.7683214256935, 
+        "longitude": -73.9830343994446
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": false, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "2128239335", 
+    "snippet_text": "Arriving slightly early (20 min) my brother and I decided to have a drink at the bar.  Interestingly the bar is just a long table, the bartender is behind a...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "French", 
+        "french"
+      ], 
       [
         "American (New)", 
         "newamerican"
       ]
     ], 
-    "violation_codes": [], 
-    "is_closed": false, 
-    "phone": "7182430050", 
-    "snippet_text": "My yak's brother and wife (both very much into good food and actually own a brewery and restaurant out west) were in town.  We got lucky with the...", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/c5fHTOURBwlc9U-nm8zcXQ/ms.jpg", 
-    "location": {
-      "city": "Brooklyn", 
-      "display_address": [
-        "Brooklyn Fare", 
-        "200 Schermerhorn St", 
-        "Downtown Brooklyn", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Downtown Brooklyn", 
-        "Boerum Hill"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "Brooklyn Fare", 
-        "200 Schermerhorn St"
-      ], 
-      "coordinate": {
-        "latitude": 40.6885011, 
-        "longitude": -73.9853009
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-718-243-0050", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 0, 
-    "id": "chefs-table-at-brooklyn-brooklyn", 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/oI-wQu_v9Lru4eS0Ceaqgw/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "is_claimed": true, 
-    "distance": 771.8419846542838, 
-    "mobile_url": "http://m.yelp.com/biz/govindas-vegetarian-brooklyn", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 79, 
-    "name": "Govinda's Vegetarian", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/govindas-vegetarian-brooklyn", 
-    "categories": [
-      [
-        "Vegetarian", 
-        "vegetarian"
-      ], 
-      [
-        "Vegan", 
-        "vegan"
-      ], 
-      [
-        "Gluten-Free", 
-        "gluten_free"
-      ]
-    ], 
-    "violation_codes": [], 
-    "is_closed": false, 
-    "phone": "7188556714", 
-    "snippet_text": "This place is truly amazing! When Yelp came up with Govindas while searching for food near work,I was not entirely sure what to expect since even though the...", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/nqT8ztEp9XroZHjdFLS3-g/ms.jpg", 
-    "location": {
-      "cross_streets": "Nevins St & Bond St", 
-      "city": "Brooklyn", 
-      "display_address": [
-        "305 Schermerhorn St", 
-        "Downtown Brooklyn", 
-        "Brooklyn, NY 11217"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Downtown Brooklyn", 
-        "Boerum Hill"
-      ], 
-      "postal_code": "11217", 
-      "country_code": "US", 
-      "address": [
-        "305 Schermerhorn St"
-      ], 
-      "coordinate": {
-        "latitude": 40.687737, 
-        "longitude": -73.982185
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-718-855-6714", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 0, 
-    "id": "govindas-vegetarian-brooklyn", 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/Rmv0yF-A8bJsK9bx0E1K6Q/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "is_claimed": false, 
-    "distance": 989.9563482974174, 
-    "mobile_url": "http://m.yelp.com/biz/brooklyn-heights-promenade-brooklyn", 
-    "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-    "review_count": 231, 
-    "name": "Brooklyn Heights Promenade", 
-    "rating": 5.0, 
-    "url": "http://www.yelp.com/biz/brooklyn-heights-promenade-brooklyn", 
-    "is_closed": false, 
-    "snippet_text": "One of my favorite places in Brooklyn heights!\n\nThe promenade is located between my clients and the office. So I walk the promenade atleast once a week....", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/L6CYXNuJDzmtqxLIpXISEA/ms.jpg", 
-    "categories": [
-      [
-        "Parks", 
-        "parks"
-      ]
-    ], 
-    "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
-    "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
-    "id": "brooklyn-heights-promenade-brooklyn", 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/B0W3gA_54FNGLWRTXeH5xQ/ms.jpg", 
-    "location": {
-      "city": "Brooklyn", 
-      "display_address": [
-        "Columbia Heights", 
-        "Brooklyn Heights", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 6.0, 
-      "neighborhoods": [
-        "Brooklyn Heights"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "Columbia Heights"
-      ], 
-      "coordinate": {
-        "latitude": 40.6994286, 
-        "longitude": -73.9957886
-      }, 
-      "state_code": "NY"
-    }
-  }, 
-  {
-    "is_claimed": false, 
-    "distance": 1253.2230730449944, 
-    "mobile_url": "http://m.yelp.com/biz/brooklyn-bridge-park-brooklyn", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 330, 
-    "name": "Brooklyn Bridge Park", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/brooklyn-bridge-park-brooklyn", 
-    "categories": [
-      [
-        "Parks", 
-        "parks"
-      ]
-    ], 
-    "violation_codes": [], 
-    "is_closed": false, 
-    "phone": "7182229939", 
-    "snippet_text": "This is the one of the best VIEWS of the New York skyline and Brooklyn Bridge.  Parking is available just follow the map from yelp will bring you to this...", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/Le9ghiytq0o4kerSe_t9kw/ms.jpg", 
-    "location": {
-      "city": "Brooklyn", 
-      "display_address": [
-        "Pier 1", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "Pier 1"
-      ], 
-      "coordinate": {
-        "latitude": 40.7016262778116, 
-        "longitude": -73.9972114562988
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-718-222-9939", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 0, 
-    "id": "brooklyn-bridge-park-brooklyn", 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/smwbKDgZqqGBnXVR5d3sUQ/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-718-451-3800", 
-    "id": "forno-rosso-pizzeria-downtown-brooklyn-5", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/forno-rosso-pizzeria-downtown-brooklyn-5", 
-    "review_count": 124, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/viwOO6nyU6eS6eqtA6nK6A/ms.jpg", 
-    "violation_codes": [
-      "20D", 
-      " 22A", 
-      " 22C", 
-      " 06D"
-    ], 
-    "location": {
-      "cross_streets": "Tech Pl & Johnson St", 
-      "city": "Downtown Brooklyn", 
-      "display_address": [
-        "327 Gold St", 
-        "Downtown Brooklyn", 
-        "Downtown Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Downtown Brooklyn"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "327 Gold St"
-      ], 
-      "coordinate": {
-        "latitude": 40.6942770878848, 
-        "longitude": -73.9832165767279
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "7184513800", 
-    "snippet_text": "My three dinners hosted by Chef Giuseppe Marrone have been a blessing and a privilege. \n\nAs someone who works in my own business, I respect and appreciate...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "Pizza", 
-        "pizza"
-      ]
-    ], 
-    "distance": 269.37440912424296, 
-    "name": "Forno Rosso Pizzeria", 
-    "url": "http://www.yelp.com/biz/forno-rosso-pizzeria-downtown-brooklyn-5", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/-EpIus5QBKQnvCfvzcOKow/ms.jpg", 
-    "violation_score": 7, 
+    "distance": 519.3829433472105, 
+    "name": "Per Se", 
+    "url": "http://www.yelp.com/biz/per-se-new-york", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/O4Z43bOpklSpoSq1WYRkDQ/ms.jpg", 
+    "violation_score": 118, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1430248112
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-718-852-8758", 
-    "id": "sottocasa-brooklyn", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/sottocasa-brooklyn", 
-    "review_count": 302, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/pqQKHWXC1uODwaEzxax9iA/ms.jpg", 
-    "violation_codes": [
-      "02G", 
-      " 06C", 
-      " 04L", 
-      " 08A", 
-      " 10F", 
-      " 06B", 
-      " 06D", 
-      " 10E", 
-      " 10H", 
-      " 10A", 
-      " 10B"
-    ], 
-    "location": {
-      "cross_streets": "Hoyt St & Smith St", 
-      "city": "Brooklyn", 
-      "display_address": [
-        "298 Atlantic Ave", 
-        "Cobble Hill", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Cobble Hill", 
-        "Boerum Hill"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "298 Atlantic Ave"
-      ], 
-      "coordinate": {
-        "latitude": 40.6882629394531, 
-        "longitude": -73.9890289306641
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "7188528758", 
-    "snippet_text": "Sottocasa blew away my expectations. As I was leaving, I thought, \"Wow. I haven't written a review in over two years but this place seriously deserves the...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "Pizza", 
-        "pizza"
-      ], 
-      [
-        "Italian", 
-        "italian"
-      ]
-    ], 
-    "distance": 666.7057155491377, 
-    "name": "Sottocasa", 
-    "url": "http://www.yelp.com/biz/sottocasa-brooklyn", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/tED2xd7BiwP7Jq2yte1_SQ/ms.jpg", 
-    "violation_score": 89, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1387746863
-  }, 
-  {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-718-935-0575", 
-    "id": "ki-sushi-brooklyn", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/ki-sushi-brooklyn", 
-    "review_count": 482, 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/cIK8VM4y6MJ3kUpDpPZjjQ/ms.jpg", 
-    "violation_codes": [
-      "04C", 
-      " 06A", 
-      " 09A", 
-      " 10F", 
-      " 15L", 
-      " 02B", 
-      " 04K", 
-      " 08A", 
-      " 06E", 
-      " 02G", 
-      " 06C"
-    ], 
-    "location": {
-      "cross_streets": "Dean St & Pacific St", 
-      "city": "Brooklyn", 
-      "display_address": [
-        "122 Smith St", 
-        "Cobble Hill", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Cobble Hill", 
-        "Boerum Hill"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "122 Smith St"
-      ], 
-      "coordinate": {
-        "latitude": 40.687645, 
-        "longitude": -73.990105
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "7189350575", 
-    "snippet_text": "Fresh, delicious, finger licking sushi! I will definitely go back for more. We had TNT - AMAZING! Ki roll, spicy girl and one more. I think all of their...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "categories": [
-      [
-        "Sushi Bars", 
-        "sushi"
-      ], 
-      [
-        "Japanese", 
-        "japanese"
-      ]
-    ], 
-    "distance": 764.6010501143319, 
-    "name": "Ki Sushi", 
-    "url": "http://www.yelp.com/biz/ki-sushi-brooklyn", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/kf_Z38PcXlxvh5k1wYyLAA/ms.jpg", 
-    "violation_score": 95, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1387626840
-  }, 
-  {
-    "is_claimed": false, 
-    "distance": 522.3520353284571, 
-    "mobile_url": "http://m.yelp.com/biz/don-nicos-brooklyn", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 37, 
-    "name": "Don Nico's", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/don-nicos-brooklyn", 
-    "categories": [
-      [
-        "Mexican", 
-        "mexican"
-      ], 
-      [
-        "Food Stands", 
-        "foodstands"
-      ]
-    ], 
-    "violation_codes": [], 
-    "is_closed": false, 
-    "phone": "7182880107", 
-    "snippet_text": "Yum! we only got a cheese quesadilla as they were out of almost every meat choice by 3:30pm on a Monday. Glad we stumbled upon this place. I'll have to...", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/qHTN8vyJ0ze8EMPEpLYCIA/ms.jpg", 
-    "location": {
-      "city": "Brooklyn", 
-      "display_address": [
-        "9-43 Dekalb Ave", 
-        "Downtown Brooklyn", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Downtown Brooklyn"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "9-43 Dekalb Ave"
-      ], 
-      "coordinate": {
-        "latitude": 40.6902172505172, 
-        "longitude": -73.9825471182377
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-718-288-0107", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 0, 
-    "id": "don-nicos-brooklyn", 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/TS-If7HxT7XdSZ4lm2NF2g/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-718-596-6700", 
-    "id": "julianas-pizza-brooklyn", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/julianas-pizza-brooklyn", 
-    "review_count": 543, 
-    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/huE2YtfiJads_k1l9sd24A/ms.jpg", 
-    "violation_codes": [], 
-    "location": {
-      "city": "Brooklyn", 
-      "display_address": [
-        "19 Old Fulton St", 
-        "DUMBO", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "DUMBO"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "19 Old Fulton St"
-      ], 
-      "coordinate": {
-        "latitude": 40.7025851365081, 
-        "longitude": -73.9935619790676
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "7185966700", 
-    "snippet_text": "A tale of how not to eat pizza in New York, as demonstrated by the throngs of tourists waiting outside and the fact that it took me a longer time to sit...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "Pizza", 
-        "pizza"
-      ], 
-      [
-        "American (Traditional)", 
-        "tradamerican"
-      ]
-    ], 
-    "distance": 1139.031728544677, 
-    "name": "Juliana's Pizza", 
-    "url": "http://www.yelp.com/biz/julianas-pizza-brooklyn", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/2MN0FP1Ni5tVKp7OpfkaRQ/ms.jpg", 
-    "violation_score": 0, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1387771090
+    "menu_date_updated": 1418098686
   }, 
   {
     "is_claimed": true, 
-    "distance": 1440.6307739584809, 
-    "mobile_url": "http://m.yelp.com/biz/brooklyn-bridge-brooklyn", 
+    "distance": 530.9220999753065, 
+    "mobile_url": "http://m.yelp.com/biz/top-of-the-rock-new-york", 
     "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 886, 
-    "name": "Brooklyn Bridge", 
+    "review_count": 1035, 
+    "name": "Top of the Rock", 
     "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/brooklyn-bridge-brooklyn", 
-    "is_closed": false, 
-    "snippet_text": "It wasn't until we walked the Brooklyn bridge that I truly realized how massive/overwhelming/beautiful that the NYC skyline is.\n\nWhen you imagine \"New York...", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/JMJDrhQ_B7pddEfeXwH0FQ/ms.jpg", 
+    "url": "http://www.yelp.com/biz/top-of-the-rock-new-york", 
     "categories": [
       [
         "Landmarks & Historical Buildings", 
         "landmarks"
+      ], 
+      [
+        "Tours", 
+        "tours"
       ]
     ], 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "id": "brooklyn-bridge-brooklyn", 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/_69pHjCBtrdFrcUUxVqAjw/ms.jpg", 
-    "location": {
-      "city": "Brooklyn", 
-      "display_address": [
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [], 
-      "coordinate": {
-        "latitude": 40.704847145301, 
-        "longitude": -73.9955377578735
-      }, 
-      "state_code": "NY"
-    }
-  }, 
-  {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-718-834-9533", 
-    "id": "yemen-cafe-brooklyn", 
+    "violation_codes": [], 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/yemen-cafe-brooklyn", 
-    "review_count": 173, 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/FZnkg4j_WUm0nsMOI3APyA/ms.jpg", 
-    "violation_codes": [
-      "02G", 
-      " 10F", 
-      " 04N", 
-      " 06C", 
-      " 08A", 
-      " 10B", 
-      " 10C", 
-      " 06B", 
-      " 06D"
-    ], 
+    "phone": "2126982000", 
+    "snippet_text": "Definitely worth checking out, EVEN if you've been on the Empire State Building. I like to to think of Top of the Rock as the flashy Hollywood-esque version...", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/jNGfkBYSVCUQb0leq_4DJA/ms.jpg", 
     "location": {
-      "cross_streets": "Court St & Clinton St", 
-      "city": "Brooklyn", 
+      "city": "New York", 
       "display_address": [
-        "176 Atlantic Ave", 
-        "Cobble Hill", 
-        "Brooklyn, NY 11201"
+        "30 Rockefeller Ctr", 
+        "Midtown West", 
+        "New York, NY 10112"
       ], 
       "geo_accuracy": 9.5, 
       "neighborhoods": [
-        "Cobble Hill", 
-        "Brooklyn Heights"
+        "Midtown West"
       ], 
-      "postal_code": "11201", 
+      "postal_code": "10112", 
       "country_code": "US", 
       "address": [
-        "176 Atlantic Ave"
+        "30 Rockefeller Ctr"
       ], 
       "coordinate": {
-        "latitude": 40.690116, 
-        "longitude": -73.993726
+        "latitude": 40.7593342608422, 
+        "longitude": -73.9794015884399
       }, 
       "state_code": "NY"
     }, 
+    "display_phone": "+1-212-698-2000", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 0, 
+    "id": "top-of-the-rock-new-york", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/GvaI0KqtgsgfR550aJGymA/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
     "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "7188349533", 
-    "snippet_text": "This spot has some seriously good food and you know that when it advertises that they open until 11PM on the weekends but the kitchen was still serving food...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "distance": 278.0685464783961, 
+    "mobile_url": "http://m.yelp.com/biz/the-halal-guys-new-york-2", 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 6205, 
+    "name": "The Halal Guys", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/the-halal-guys-new-york-2", 
     "categories": [
+      [
+        "Food Stands", 
+        "foodstands"
+      ], 
       [
         "Middle Eastern", 
         "mideastern"
-      ], 
-      [
-        "Arabian", 
-        "arabian"
       ], 
       [
         "Halal", 
         "halal"
       ]
     ], 
-    "distance": 749.7895307167389, 
-    "name": "Yemen Cafe", 
-    "url": "http://www.yelp.com/biz/yemen-cafe-brooklyn", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/pIypLaU3S475lwzTf0yT7g/ms.jpg", 
-    "violation_score": 87, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1387633124
+    "violation_codes": [], 
+    "is_closed": false, 
+    "phone": "3475271505", 
+    "snippet_text": "After hearing so much about this place, I had to check it out when we were in town.\n\nThis place lives up to the hype; I got the mixed plate with extra white...", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/uC0o4UnxbSXEwiy_MctH_w/ms.jpg", 
+    "location": {
+      "city": "New York", 
+      "display_address": [
+        "6th Ave & W 53rd St", 
+        "Theater District", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Theater District", 
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "6th Ave & W 53rd St"
+      ], 
+      "coordinate": {
+        "latitude": 40.7617559582706, 
+        "longitude": -73.979229927063
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-347-527-1505", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 0, 
+    "id": "the-halal-guys-new-york-2", 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/nve91xuAMLtgncj9lfYS4w/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 236.1209434307533, 
+    "mobile_url": "http://m.yelp.com/biz/love-sculpture-new-york", 
+    "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+    "review_count": 48, 
+    "name": "Love Sculpture", 
+    "rating": 5.0, 
+    "url": "http://www.yelp.com/biz/love-sculpture-new-york", 
+    "is_closed": false, 
+    "snippet_text": "One more thing to LOVE about New York City.  They say, a picture is worth a 1,000 words...... but in this case, it's worth just ONE word....... LOVE.  The...", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/QB5CYCsfIN6Xgvi3y5ssoQ/ms.jpg", 
+    "categories": [
+      [
+        "Local Flavor", 
+        "localflavor"
+      ]
+    ], 
+    "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
+    "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+    "id": "love-sculpture-new-york", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/HUoxo5CnYAPUQgPAnxRnmw/ms.jpg", 
+    "location": {
+      "city": "New York", 
+      "display_address": [
+        "1359 Ave of the Americas", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "1359 Ave of the Americas"
+      ], 
+      "coordinate": {
+        "latitude": 40.7629231363535, 
+        "longitude": -73.9782817661762
+      }, 
+      "state_code": "NY"
+    }
   }, 
   {
     "rating": 4.5, 
     "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-718-422-7878", 
-    "id": "piz-zetta-brooklyn", 
+    "display_phone": "+1-212-299-3900", 
+    "id": "jean-georges-new-york", 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/piz-zetta-brooklyn", 
-    "review_count": 72, 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/Fy3x0KaTducN13qTKh7MVw/ms.jpg", 
+    "mobile_url": "http://m.yelp.com/biz/jean-georges-new-york", 
+    "review_count": 1172, 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/oHTqB1ZnspUkibwXkM5QEg/ms.jpg", 
     "violation_codes": [
-      "04N", 
+      "10F", 
+      " 22A", 
+      " 06C", 
+      " 04N", 
       " 08A", 
-      " 10H", 
+      " 04H", 
+      " 06D", 
+      " 08C", 
       " 02G", 
-      " 10F", 
-      " 02B", 
-      " 06D"
+      " 10D", 
+      " 10B", 
+      " 09C"
     ], 
     "location": {
-      "cross_streets": "Boerum Pl & Court Sq", 
-      "city": "Brooklyn", 
+      "city": "New York", 
       "display_address": [
-        "90 Livingston St", 
-        "Brooklyn Heights", 
-        "Brooklyn, NY 11201"
+        "1 Central Park W", 
+        "Upper West Side", 
+        "New York, NY 10023"
       ], 
-      "geo_accuracy": 9.5, 
+      "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "Brooklyn Heights"
+        "Upper West Side"
       ], 
-      "postal_code": "11201", 
+      "postal_code": "10023", 
       "country_code": "US", 
       "address": [
-        "90 Livingston St"
+        "1 Central Park W"
       ], 
       "coordinate": {
-        "latitude": 40.691104, 
-        "longitude": -73.990737
+        "latitude": 40.7689095, 
+        "longitude": -73.9817581
       }, 
       "state_code": "NY"
     }, 
     "is_claimed": true, 
     "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "7184227878", 
-    "snippet_text": "There are three reasons why I give this 5 stars...which I rarely give 5 stars.  \n1) They offer the option of online ordering (delivery and take-out) through...", 
+    "phone": "2122993900", 
+    "snippet_text": "Jean Georges.  3 Michelin Stars in 2015.  10 years in a row.  #98 on The San Pellegrino's 2014 World's 50 Best Restaurants.  #19 in 2009. #17 in 2008. #18...", 
     "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
     "categories": [
       [
-        "Italian", 
-        "italian"
-      ], 
-      [
-        "Pizza", 
-        "pizza"
+        "French", 
+        "french"
       ]
     ], 
-    "distance": 482.35839970533846, 
-    "name": "Piz-zetta", 
-    "url": "http://www.yelp.com/biz/piz-zetta-brooklyn", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/I9NM9Fu12sQCMymUNbg_bw/ms.jpg", 
-    "violation_score": 42, 
-    "menu_provider": "eat24", 
-    "menu_date_updated": 1422472612
-  }, 
-  {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-718-307-7590", 
-    "id": "shake-shack-brooklyn", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/shake-shack-brooklyn", 
-    "review_count": 521, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/qMaTMOuuzgYN1diNaFUoNA/ms.jpg", 
-    "violation_codes": [], 
-    "location": {
-      "cross_streets": "Court Sq & Red Hook Ln", 
-      "city": "Brooklyn", 
-      "display_address": [
-        "409 Fulton St", 
-        "Brooklyn Heights", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Brooklyn Heights", 
-        "Downtown Brooklyn"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "409 Fulton St"
-      ], 
-      "coordinate": {
-        "latitude": 40.6919746, 
-        "longitude": -73.9883194
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "7183077590", 
-    "snippet_text": "Shackmeister burger recommended. New and made with Angus beef. Also try their custard for dessert. They change their custard dessert every month. For the...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "categories": [
-      [
-        "Burgers", 
-        "burgers"
-      ], 
-      [
-        "Ice Cream & Frozen Yogurt", 
-        "icecream"
-      ]
-    ], 
-    "distance": 292.0838764559866, 
-    "name": "Shake Shack", 
-    "url": "http://www.yelp.com/biz/shake-shack-brooklyn", 
-    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/dFB6jP56GiYHd6ScXngTcA/ms.jpg", 
-    "violation_score": 0, 
+    "distance": 567.1878329939807, 
+    "name": "Jean-Georges", 
+    "url": "http://www.yelp.com/biz/jean-georges-new-york", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/mkrQ2lRSuLBnYNXknktQWA/ms.jpg", 
+    "violation_score": 83, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1387744992
+    "menu_date_updated": 1427287644
   }, 
   {
     "is_claimed": true, 
-    "distance": 1179.585735522484, 
-    "mobile_url": "http://m.yelp.com/biz/red-lantern-bicycles-brooklyn", 
+    "distance": 412.4016937435837, 
+    "mobile_url": "http://m.yelp.com/biz/bibble-and-sip-new-york-2", 
     "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 107, 
-    "name": "Red Lantern Bicycles", 
+    "review_count": 182, 
+    "name": "Bibble & Sip", 
     "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/red-lantern-bicycles-brooklyn", 
+    "url": "http://www.yelp.com/biz/bibble-and-sip-new-york-2", 
     "categories": [
       [
-        "Bikes", 
-        "bikes"
+        "Cafes", 
+        "cafes"
       ], 
       [
         "Coffee & Tea", 
         "coffee"
       ], 
       [
-        "Bars", 
-        "bars"
+        "Bakeries", 
+        "bakeries"
       ]
     ], 
     "violation_codes": [
-      "10F", 
-      " 06A", 
-      " 06D", 
-      " 06C", 
-      " 10B", 
-      " 04O", 
-      " 04N", 
-      " 08A", 
-      " 02G", 
-      " 99B", 
-      " 10A"
+      "10F"
     ], 
     "is_closed": false, 
-    "phone": "3478895338", 
-    "snippet_text": "Recently relocated to Brooklyn and trying out all the coffee shops and cafes.  \nRed lantern is a warm and inviting coffee shop.  \nA cool, laid back place,...", 
-    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/PLpi_G5KDbhWqgWpV9ujSQ/ms.jpg", 
+    "phone": "6466495116", 
+    "snippet_text": "Alright folks, hear me out. Their lavender latte, on first sip, tastes like grandma soap -- you know, that lavender soap your grandma uses?? The first...", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/20CGWyNCRMq5za6-ZqVt5w/ms.jpg", 
     "location": {
-      "cross_streets": "Carlton Ave & Adelphi St", 
-      "city": "Brooklyn", 
+      "city": "New York", 
       "display_address": [
-        "345 Myrtle Ave", 
-        "Fort Greene", 
-        "Brooklyn, NY 11205"
+        "253 W 51 St", 
+        "Hell's Kitchen", 
+        "New York, NY 10019"
       ], 
       "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "Fort Greene"
+        "Hell's Kitchen", 
+        "Theater District", 
+        "Midtown West"
       ], 
-      "postal_code": "11205", 
+      "postal_code": "10019", 
       "country_code": "US", 
       "address": [
-        "345 Myrtle Ave"
+        "253 W 51 St"
       ], 
       "coordinate": {
-        "latitude": 40.6934509, 
-        "longitude": -73.9724197
+        "latitude": 40.762905, 
+        "longitude": -73.985085
       }, 
       "state_code": "NY"
     }, 
-    "display_phone": "+1-347-889-5338", 
+    "display_phone": "+1-646-649-5116", 
     "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 75, 
-    "id": "red-lantern-bicycles-brooklyn", 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/3gBYgNaakhKnx6rfwHdFDw/ms.jpg", 
+    "violation_score": 3, 
+    "id": "bibble-and-sip-new-york-2", 
+    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/8_Sz25ThKXdsbz_FRbGXFA/ms.jpg", 
     "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-212-265-2703", 
+    "id": "bengal-tiger-indian-food-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/bengal-tiger-indian-food-new-york", 
+    "review_count": 275, 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/fJb936IkLaGJQqzqCLGADw/ms.jpg", 
+    "violation_codes": [
+      "06A", 
+      " 22C", 
+      " 02G", 
+      " 10F", 
+      " 02I", 
+      " 16B"
+    ], 
+    "location": {
+      "cross_streets": "5th Ave & Avenue Of The Americas", 
+      "city": "New York", 
+      "display_address": [
+        "58 W 56th St", 
+        "2nd Fl", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "58 W 56th St", 
+        "2nd Fl"
+      ], 
+      "coordinate": {
+        "latitude": 40.763167, 
+        "longitude": -73.977131
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "2122652703", 
+    "snippet_text": "Bengal Tiger is not only the best Indian food I've had it NYC, it may just be the best Indian food I've had EVER! This place did it right with the food and...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Indian", 
+        "indpak"
+      ]
+    ], 
+    "distance": 310.6883972125825, 
+    "name": "Bengal Tiger Indian Food", 
+    "url": "http://www.yelp.com/biz/bengal-tiger-indian-food-new-york", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/OARTVLqkGqX-G4boJq2E9w/ms.jpg", 
+    "violation_score": 14, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1415620710
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-212-575-5129", 
+    "id": "del-friscos-double-eagle-steak-house-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/del-friscos-double-eagle-steak-house-new-york", 
+    "review_count": 1391, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/KXLJ5r8FbnBqRWoTwHCnaQ/ms.jpg", 
+    "violation_codes": [
+      "02G", 
+      " 10F", 
+      " 02B", 
+      " 02H", 
+      " 06D", 
+      " 10H", 
+      " 06E", 
+      " 10B", 
+      " 06C", 
+      " 04H"
+    ], 
+    "location": {
+      "cross_streets": "48th St & 49th St", 
+      "city": "New York", 
+      "display_address": [
+        "1221 Avenue of the Americas", 
+        "Theater District", 
+        "New York, NY 10020"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Theater District", 
+        "Midtown West"
+      ], 
+      "postal_code": "10020", 
+      "country_code": "US", 
+      "address": [
+        "1221 Avenue of the Americas"
+      ], 
+      "coordinate": {
+        "latitude": 40.759568, 
+        "longitude": -73.982074
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "2125755129", 
+    "snippet_text": "Rarely does exquisite food meet equally good service like it does at Del Frisco's. \n\n\nThe service: We came here on a Sunday night for my mom's birthday and...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Steakhouses", 
+        "steak"
+      ]
+    ], 
+    "distance": 508.8998479988931, 
+    "name": "Del Frisco's Double Eagle Steak House", 
+    "url": "http://www.yelp.com/biz/del-friscos-double-eagle-steak-house-new-york", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/FyQ0V-QtndWStk5B8qwjXw/ms.jpg", 
+    "violation_score": 101, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1426628382
   }, 
   {
     "rating": 4.0, 
     "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-718-858-6818", 
-    "id": "hancos-brooklyn", 
+    "display_phone": "+1-212-582-5100", 
+    "id": "marea-new-york", 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/hancos-brooklyn", 
-    "review_count": 402, 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/Y9qWc73twuTCRBO2xapq7A/ms.jpg", 
+    "mobile_url": "http://m.yelp.com/biz/marea-new-york", 
+    "review_count": 1036, 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/Pv7iRMByx-DdyvpiQGLIrA/ms.jpg", 
     "violation_codes": [
-      "04D", 
+      "06D", 
       " 10F", 
+      " 02B", 
       " 02G", 
-      " 10J"
+      " 04C", 
+      " 09A", 
+      " 03A", 
+      " 06A", 
+      " 06B", 
+      " 06E", 
+      " 04H", 
+      " 04N", 
+      " 08A", 
+      " 10H"
     ], 
     "location": {
-      "cross_streets": "Dean St & Bergen St", 
-      "city": "Brooklyn", 
+      "city": "New York", 
       "display_address": [
-        "134 Smith St", 
-        "Cobble Hill", 
-        "Brooklyn, NY 11201"
+        "240 Central Park S", 
+        "Midtown West", 
+        "New York, NY 10019"
       ], 
       "geo_accuracy": 9.5, 
       "neighborhoods": [
-        "Cobble Hill", 
-        "Boerum Hill"
+        "Midtown West"
       ], 
-      "postal_code": "11201", 
+      "postal_code": "10019", 
       "country_code": "US", 
       "address": [
-        "134 Smith St"
+        "240 Central Park S"
       ], 
       "coordinate": {
-        "latitude": 40.6870318621828, 
-        "longitude": -73.9904292380982
+        "latitude": 40.7674426993125, 
+        "longitude": -73.9808475656193
       }, 
       "state_code": "NY"
     }, 
     "is_claimed": true, 
     "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "7188586818", 
-    "snippet_text": "Hancos is pretty awesome. They used to be around the corner at a hole in the wall next to van leeuwen.  But New Yorkers have a way of discovering a good...", 
+    "phone": "2125825100", 
+    "snippet_text": "Everything on the menu looks exquisite! \n\nWe went for the prefix, I had the Polipo appetizer, scallops entr\u00e9e and chocolate dessert (of course). The food...", 
     "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
     "categories": [
       [
-        "Vietnamese", 
-        "vietnamese"
+        "Italian", 
+        "italian"
       ], 
       [
-        "Sandwiches", 
-        "sandwiches"
-      ], 
-      [
-        "Bubble Tea", 
-        "bubbletea"
+        "Seafood", 
+        "seafood"
       ]
     ], 
-    "distance": 837.8270822639239, 
-    "name": "Hanco's", 
-    "url": "http://www.yelp.com/biz/hancos-brooklyn", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/jiyGrcCI7nQBEJY8FPTXVg/ms.jpg", 
-    "violation_score": 23, 
+    "distance": 381.52061039517304, 
+    "name": "Marea", 
+    "url": "http://www.yelp.com/biz/marea-new-york", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/wVb5eutJbdMxrCj6HdQLpQ/ms.jpg", 
+    "violation_score": 120, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1387631996
+    "menu_date_updated": 1416542754
   }, 
   {
-    "is_claimed": true, 
-    "distance": 664.0111684204986, 
-    "mobile_url": "http://m.yelp.com/biz/two-8-two-brooklyn", 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "review_count": 372, 
-    "name": "Two 8 Two", 
     "rating": 4.0, 
-    "url": "http://www.yelp.com/biz/two-8-two-brooklyn", 
-    "categories": [
-      [
-        "Burgers", 
-        "burgers"
-      ], 
-      [
-        "Bars", 
-        "bars"
-      ]
-    ], 
-    "violation_codes": [
-      "04L", 
-      " 08A", 
-      " 10F", 
-      " 22A", 
-      " 06C", 
-      " 10B", 
-      " 02G", 
-      " 10H", 
-      " 10I", 
-      " 08C", 
-      " 22C", 
-      " 04H", 
-      " 04N", 
-      " 06D", 
-      " 16B", 
-      " 15I", 
-      " 15L", 
-      " 20D"
-    ], 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-212-371-7777", 
+    "id": "quality-meats-new-york", 
     "is_closed": false, 
-    "phone": "7185962282", 
-    "snippet_text": "Love love love the Billy burger with lettuce, tomato, and onion. They cook it to your liking and it comes with a \"two8two\" sauce that's tangy and delicious....", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/ibY5Er96BWCygp-eWne2jg/ms.jpg", 
+    "mobile_url": "http://m.yelp.com/biz/quality-meats-new-york", 
+    "review_count": 1063, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/G7xN9soRhhZozXPWgmXM8w/ms.jpg", 
+    "violation_codes": [
+      "06D", 
+      " 09C", 
+      " 10F", 
+      " 02B", 
+      " 02G", 
+      " 04C", 
+      " 06A", 
+      " 06B", 
+      " 10B", 
+      " 20E", 
+      " 04L", 
+      " 04N", 
+      " 08A", 
+      " 06E"
+    ], 
     "location": {
-      "cross_streets": "Boerum Pl & Smith St", 
-      "city": "Brooklyn", 
+      "cross_streets": "Avenue Of The Americas & Grand Army Plz", 
+      "city": "New York", 
       "display_address": [
-        "282 Atlantic Ave", 
-        "Cobble Hill", 
-        "Brooklyn, NY 11201"
+        "57 W 58th St", 
+        "Midtown West", 
+        "New York, NY 10019"
       ], 
-      "geo_accuracy": 8.0, 
+      "geo_accuracy": 9.5, 
       "neighborhoods": [
-        "Cobble Hill", 
-        "Boerum Hill"
+        "Midtown West"
       ], 
-      "postal_code": "11201", 
+      "postal_code": "10019", 
       "country_code": "US", 
       "address": [
-        "282 Atlantic Ave"
+        "57 W 58th St"
       ], 
       "coordinate": {
-        "latitude": 40.688515, 
-        "longitude": -73.989746
+        "latitude": 40.764958, 
+        "longitude": -73.976206
       }, 
       "state_code": "NY"
     }, 
-    "display_phone": "+1-718-596-2282", 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "2123717777", 
+    "snippet_text": "I came here for a dinner party a year ago and got the filet with marrow which was definitely tender and savory.\n\nThey have a great collection of wines and a...", 
     "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "violation_score": 115, 
-    "id": "two-8-two-brooklyn", 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/spi0F4AbYP_XdzhzQmIv4g/ms.jpg", 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+    "categories": [
+      [
+        "Meat Shops", 
+        "meats"
+      ], 
+      [
+        "Seafood", 
+        "seafood"
+      ], 
+      [
+        "Steakhouses", 
+        "steak"
+      ]
+    ], 
+    "distance": 388.3560940517656, 
+    "name": "Quality Meats", 
+    "url": "http://www.yelp.com/biz/quality-meats-new-york", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/J-xkh7xVC1pqkxYmChG-fw/ms.jpg", 
+    "violation_score": 171, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1417146327
   }, 
   {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-718-596-5955", 
-    "id": "queen-italian-restaurant-brooklyn", 
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-212-956-0670", 
+    "id": "sugiyama-restaurant-new-york", 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/queen-italian-restaurant-brooklyn", 
-    "review_count": 167, 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/Epfi2P5MzJS0J6GcqVi8oQ/ms.jpg", 
-    "violation_codes": [], 
+    "mobile_url": "http://m.yelp.com/biz/sugiyama-restaurant-new-york", 
+    "review_count": 184, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/ldoQW5iIlrNI-pr2GH4w2g/ms.jpg", 
+    "violation_codes": [
+      "06C", 
+      " 10F", 
+      " 02B", 
+      " 06D", 
+      " 15L", 
+      " 08C"
+    ], 
     "location": {
-      "cross_streets": "Livingston St & Schermerhorn St", 
-      "city": "Brooklyn", 
+      "cross_streets": "Broadway & 8th Ave", 
+      "city": "New York", 
       "display_address": [
-        "84 Court St", 
-        "Brooklyn Heights", 
-        "Brooklyn, NY 11201"
+        "251 W 55th St", 
+        "Midtown West", 
+        "New York, NY 10019"
       ], 
       "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "Brooklyn Heights"
+        "Midtown West"
       ], 
-      "postal_code": "11201", 
+      "postal_code": "10019", 
       "country_code": "US", 
       "address": [
-        "84 Court St"
+        "251 W 55th St"
       ], 
       "coordinate": {
-        "latitude": 40.6913605, 
-        "longitude": -73.9918976
+        "latitude": 40.7653694, 
+        "longitude": -73.9831085
       }, 
       "state_code": "NY"
     }, 
     "is_claimed": false, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "2129560670", 
+    "snippet_text": "If you are looking for unique dining in NYC, I would say this is the place to go.  I honestly never even thought to look for kaiseki (multi-course Japanese...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Japanese", 
+        "japanese"
+      ]
+    ], 
+    "distance": 254.08146186926783, 
+    "name": "Sugiyama Restaurant", 
+    "url": "http://www.yelp.com/biz/sugiyama-restaurant-new-york", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/bjx68Uk62lHoqYl-E9IoZA/ms.jpg", 
+    "violation_score": 39, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387613666
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-212-245-4555", 
+    "id": "yakitori-totto-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/yakitori-totto-new-york", 
+    "review_count": 847, 
+    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/-Co3gome6atIcBjTo2igUA/ms.jpg", 
+    "violation_codes": [
+      "02A", 
+      " 04C", 
+      " 06C", 
+      " 10F", 
+      " 04M", 
+      " 08A", 
+      " 02G", 
+      " 02B"
+    ], 
+    "location": {
+      "cross_streets": "Broadway & 8th Ave", 
+      "city": "New York", 
+      "display_address": [
+        "251 W 55th St", 
+        "2nd Fl", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "251 W 55th St", 
+        "2nd Fl"
+      ], 
+      "coordinate": {
+        "latitude": 40.765373, 
+        "longitude": -73.983116
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
     "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "7185965955", 
-    "snippet_text": "Amazing bufala mozzarella. That's pretty much why I come here. The decor could use a little updating though (I feel like it's stuck in the 90s).", 
+    "phone": "2122454555", 
+    "snippet_text": "Yum! Food was excellent, and I had a great time.\n\nI came here with my husband without a reservation, because we just flew in from Los Angeles. I was curious...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Japanese", 
+        "japanese"
+      ]
+    ], 
+    "distance": 257.0436682409492, 
+    "name": "Yakitori Totto", 
+    "url": "http://www.yelp.com/biz/yakitori-totto-new-york", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/PtiWOVwdV5J_Qv2S6G2sng/ms.jpg", 
+    "violation_score": 63, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387623423
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 256.37002977241247, 
+    "mobile_url": "http://m.yelp.com/biz/zibetto-espresso-bar-new-york", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 288, 
+    "name": "Zibetto Espresso Bar", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/zibetto-espresso-bar-new-york", 
+    "is_closed": false, 
+    "snippet_text": "Love this place! \n\nGreat coffee, great salami sandwiches, and friendly staff.\n\nIt's a small coffee bar, not a seating place, but it's a nice place to stop...", 
+    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/C64d_uPlhAyrlQPfRsfPXQ/ms.jpg", 
+    "categories": [
+      [
+        "Coffee & Tea", 
+        "coffee"
+      ]
+    ], 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "id": "zibetto-espresso-bar-new-york", 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/2T1xBCLYKetnM5-qgwEOOQ/ms.jpg", 
+    "location": {
+      "city": "New York", 
+      "display_address": [
+        "1385 6th Ave", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "1385 6th Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.7639232809413, 
+        "longitude": -73.9776043465576
+      }, 
+      "state_code": "NY"
+    }
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 285.1126721860352, 
+    "mobile_url": "http://m.yelp.com/biz/beyond-sushi-midtown-west-new-york-2", 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 44, 
+    "name": "Beyond Sushi Midtown West", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/beyond-sushi-midtown-west-new-york-2", 
+    "categories": [
+      [
+        "Sushi Bars", 
+        "sushi"
+      ], 
+      [
+        "Vegan", 
+        "vegan"
+      ], 
+      [
+        "Vegetarian", 
+        "vegetarian"
+      ]
+    ], 
+    "violation_codes": [
+      "10B", 
+      " 10F"
+    ], 
+    "is_closed": false, 
+    "phone": "6469645097", 
+    "snippet_text": "Really interesting, creative and tasty vegetarian sushi place. Haven't seen anything like this in NYC in all my years here. There are several rolls,...", 
+    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/S2gnLcWecwfiv6lRBtcldg/ms.jpg", 
+    "location": {
+      "cross_streets": "5th Ave & Avenue Of The Americas", 
+      "city": "New York", 
+      "display_address": [
+        "62 W 56th St", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "62 W 56th St"
+      ], 
+      "coordinate": {
+        "latitude": 40.763214, 
+        "longitude": -73.977242
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-646-964-5097", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "violation_score": 4, 
+    "id": "beyond-sushi-midtown-west-new-york-2", 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/Wys1p-Z8aUIvLV61fyYxvw/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-212-759-5554", 
+    "id": "nerai-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/nerai-new-york", 
+    "review_count": 120, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/zqSJ8u_W8lH5OPu7-E41tA/ms.jpg", 
+    "violation_codes": [
+      "04H", 
+      " 10B", 
+      " 06D", 
+      " 06F", 
+      " 02G"
+    ], 
+    "location": {
+      "cross_streets": "Madison Ave & Park Ave", 
+      "city": "New York", 
+      "display_address": [
+        "55 E 54th St", 
+        "Midtown East", 
+        "New York, NY 10022"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Midtown East"
+      ], 
+      "postal_code": "10022", 
+      "country_code": "US", 
+      "address": [
+        "55 E 54th St"
+      ], 
+      "coordinate": {
+        "latitude": 40.760295, 
+        "longitude": -73.973007
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "phone": "2127595554", 
+    "snippet_text": "I visit NYC quite a few times a year, but haven't gotten the knack for finding great restaurants. I was pleasantly surprised when the concierge recommended...", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "categories": [
+      [
+        "Greek", 
+        "greek"
+      ], 
+      [
+        "Mediterranean", 
+        "mediterranean"
+      ], 
+      [
+        "Bars", 
+        "bars"
+      ]
+    ], 
+    "distance": 764.4792589013115, 
+    "name": "Nerai", 
+    "url": "http://www.yelp.com/biz/nerai-new-york", 
+    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/64by4dJZGoP7ZVl5vKr9tQ/ms.jpg", 
+    "violation_score": 26, 
+    "menu_provider": "locu", 
+    "menu_date_updated": 1422459714
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-212-265-2610", 
+    "id": "basso56-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/basso56-new-york", 
+    "review_count": 395, 
+    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/w9HWY7aeikQisMpVBK2XOQ/ms.jpg", 
+    "violation_codes": [
+      "06C", 
+      " 06D", 
+      " 10F", 
+      " 04L", 
+      " 08A", 
+      " 09B", 
+      " 04N", 
+      " 02B", 
+      " 02G", 
+      " 06A", 
+      " 10J", 
+      " 08C", 
+      " 10B", 
+      " 10H", 
+      " 22C", 
+      " 04H"
+    ], 
+    "location": {
+      "cross_streets": "Broadway & 8th Ave", 
+      "city": "New York", 
+      "display_address": [
+        "234 W 56th St", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "234 W 56th St"
+      ], 
+      "coordinate": {
+        "latitude": 40.765502, 
+        "longitude": -73.982673
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "2122652610", 
+    "snippet_text": "I have been here twice and both times the food has been amazing.  We made last minute reservations and they were easily able to accommodate us (3)....", 
     "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
     "categories": [
       [
@@ -987,231 +1033,207 @@
         "italian"
       ]
     ], 
-    "distance": 540.7206331292576, 
-    "name": "Queen Italian Restaurant", 
-    "url": "http://www.yelp.com/biz/queen-italian-restaurant-brooklyn", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/udxli6cbdlkiK4bR_dSlLA/ms.jpg", 
-    "violation_score": 0, 
+    "distance": 237.6930294257997, 
+    "name": "Basso56", 
+    "url": "http://www.yelp.com/biz/basso56-new-york", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/jKHb5YT1U5uHx4psdIwOKw/ms.jpg", 
+    "violation_score": 122, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1387513098
+    "menu_date_updated": 1426506145
   }, 
   {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-718-858-8517", 
-    "id": "iron-chef-house-brooklyn", 
+    "rating": 4.5, 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "display_phone": "+1-212-752-1495", 
+    "id": "la-grenouille-new-york", 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/iron-chef-house-brooklyn", 
-    "review_count": 238, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/PHvWwFU0yt33EDSO3xdfxQ/ms.jpg", 
+    "mobile_url": "http://m.yelp.com/biz/la-grenouille-new-york", 
+    "review_count": 232, 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/XUZ_xW7S5HcHMoS8qGsCWg/ms.jpg", 
     "violation_codes": [
-      "02B", 
+      "06E", 
+      " 10B", 
       " 10F", 
-      " 04L", 
-      " 06A", 
-      " 06D", 
-      " 08A", 
-      " 09B", 
       " 02G", 
-      " 04M", 
-      " 04N", 
-      " 06C", 
-      " 06F", 
-      " 10B", 
-      " 04A", 
-      " 10H", 
-      " 06E"
+      " 06C"
     ], 
     "location": {
-      "cross_streets": "Monroe Pl & Henry St", 
-      "city": "Brooklyn", 
+      "cross_streets": "5th Ave & Madison Ave", 
+      "city": "New York", 
       "display_address": [
-        "92 Clark St", 
-        "Brooklyn Heights", 
-        "Brooklyn, NY 11201"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Brooklyn Heights"
-      ], 
-      "postal_code": "11201", 
-      "country_code": "US", 
-      "address": [
-        "92 Clark St"
-      ], 
-      "coordinate": {
-        "latitude": 40.6972664717136, 
-        "longitude": -73.9925980567932
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": false, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "7188588517", 
-    "snippet_text": "This was great! I came here with two of my coworkers for the lunch specials. It was late and I was REALLY hungry, so I got the sashimi +sushi plate with an...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "categories": [
-      [
-        "Sushi Bars", 
-        "sushi"
-      ]
-    ], 
-    "distance": 643.7873381334314, 
-    "name": "Iron Chef House", 
-    "url": "http://www.yelp.com/biz/iron-chef-house-brooklyn", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/bBerv4rVbyneNhyTpsUV2Q/ms.jpg", 
-    "violation_score": 199, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1390505590
-  }, 
-  {
-    "is_claimed": false, 
-    "distance": 1193.0928146462757, 
-    "mobile_url": "http://m.yelp.com/biz/empire-fulton-ferry-state-park-brooklyn", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 47, 
-    "name": "Empire-Fulton Ferry State Park", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/empire-fulton-ferry-state-park-brooklyn", 
-    "categories": [
-      [
-        "Parks", 
-        "parks"
-      ]
-    ], 
-    "violation_codes": [], 
-    "is_closed": false, 
-    "phone": "7188584708", 
-    "snippet_text": "I visited this park on a sunny September afternoon. It's situated between the Brooklyn and Manhattan bridge. After a brisk walk across the Brooklyn bridge,...", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/uxFXiWNsSBD1pRrtJGvkQg/ms.jpg", 
-    "location": {
-      "cross_streets": "Brooklyn Brg & Water St", 
-      "city": "Brooklyn", 
-      "display_address": [
-        "26 New Dock St", 
-        "DUMBO", 
-        "Brooklyn, NY 11201"
+        "3 E 52nd St", 
+        "Midtown East", 
+        "New York, NY 10022"
       ], 
       "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "DUMBO"
+        "Midtown East"
       ], 
-      "postal_code": "11201", 
+      "postal_code": "10022", 
       "country_code": "US", 
       "address": [
-        "26 New Dock St"
+        "3 E 52nd St"
       ], 
       "coordinate": {
-        "latitude": 40.7040405, 
-        "longitude": -73.9935684
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-718-858-4708", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 0, 
-    "id": "empire-fulton-ferry-state-park-brooklyn", 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/tBKytXOd0f4mDY4z7KLyDQ/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-917-435-3745", 
-    "id": "lulu-and-po-brooklyn", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/lulu-and-po-brooklyn", 
-    "review_count": 105, 
-    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/HbD9tE-sZbpSjwIYNJQDtQ/ms.jpg", 
-    "violation_codes": [
-      "02G", 
-      " 04J", 
-      " 06D", 
-      " 06B", 
-      " 10F", 
-      " 04N", 
-      " 08A", 
-      " 06E", 
-      " 10H", 
-      " 02B", 
-      " 04H", 
-      " 04L", 
-      " 06A", 
-      " 10B", 
-      " 06C", 
-      " 10D", 
-      " 20D"
-    ], 
-    "location": {
-      "cross_streets": "Willoughby Ave & Myrtle Ave", 
-      "city": "Brooklyn", 
-      "display_address": [
-        "154 Carlton Ave", 
-        "Fort Greene", 
-        "Brooklyn, NY 11205"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Fort Greene"
-      ], 
-      "postal_code": "11205", 
-      "country_code": "US", 
-      "address": [
-        "154 Carlton Ave"
-      ], 
-      "coordinate": {
-        "latitude": 40.6928864, 
-        "longitude": -73.9729538
+        "latitude": 40.7597198, 
+        "longitude": -73.9755402
       }, 
       "state_code": "NY"
     }, 
     "is_claimed": true, 
     "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "9174353745", 
-    "snippet_text": "Despite an awkward welcoming, our experience at Lulu and Po's was deeply enjoyable, service included. The cilantro jalape\u00f1o sauce that accompanies the...", 
+    "phone": "2127521495", 
+    "snippet_text": "What can I say that may not have already been said. The space is fantastic. Beautiful flowers adorned all the empty space. The servers were amazing. I love...", 
     "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
     "categories": [
       [
-        "American (Traditional)", 
-        "tradamerican"
+        "French", 
+        "french"
       ]
     ], 
-    "distance": 1135.3660013741646, 
-    "name": "Lulu & Po", 
-    "url": "http://www.yelp.com/biz/lulu-and-po-brooklyn", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/66fPZMGmmPtkhDLyjyC5Og/ms.jpg", 
-    "violation_score": 131, 
+    "distance": 644.2922990346117, 
+    "name": "La Grenouille", 
+    "url": "http://www.yelp.com/biz/la-grenouille-new-york", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/g9Zn2S13p2PjvQ_XNCIRPg/ms.jpg", 
+    "violation_score": 32, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1429938020
-  }
-]1135.3660013741646, 
-    "name": "Lulu & Po", 
-    "url": "http://www.yelp.com/biz/lulu-and-po-brooklyn", 
-    "image_url": "http://s3-media4.fl.yelpassets.com/bphoto/66fPZMGmmPtkhDLyjyC5Og/ms.jpg", 
-    "violation_score": 131, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1429938020
-  }
-] }
-]ely helpful.  We...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpassets.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "menu_date_updated": 1418469130
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-212-245-7400", 
+    "id": "estiatorio-milos-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/estiatorio-milos-new-york", 
+    "review_count": 462, 
+    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/sjOTjZkupMTbQdEaJyil1Q/ms.jpg", 
+    "violation_codes": [
+      "06E", 
+      " 10B", 
+      " 04L", 
+      " 08A", 
+      " 10F", 
+      " 02G", 
+      " 04M", 
+      " 06C", 
+      " 06D", 
+      " 10H", 
+      " 02B", 
+      " 04C", 
+      " 10J", 
+      " 16B"
+    ], 
+    "location": {
+      "cross_streets": "7th Ave & Avenue Of The Americas", 
+      "city": "New York", 
+      "display_address": [
+        "125 W 55th St", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "125 W 55th St"
+      ], 
+      "coordinate": {
+        "latitude": 40.7636375, 
+        "longitude": -73.9792328
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "2122457400", 
+    "snippet_text": "A truly outstanding meal at an unbeatable price.  We did the Pre/Post Dinner Pre Fixe priced at $49 for 4 courses - incredible!  I had the grilled octopus,...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
     "categories": [
+      [
+        "Seafood", 
+        "seafood"
+      ], 
+      [
+        "Greek", 
+        "greek"
+      ], 
+      [
+        "Mediterranean", 
+        "mediterranean"
+      ]
+    ], 
+    "distance": 150.062447280402, 
+    "name": "Estiatorio Milos", 
+    "url": "http://www.yelp.com/biz/estiatorio-milos-new-york", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/YOQoDfkWrlsLayeRX7tzew/ms.jpg", 
+    "violation_score": 94, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1416465285
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-212-333-1220", 
+    "id": "the-dining-room-at-the-modern-new-york", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/the-dining-room-at-the-modern-new-york", 
+    "review_count": 523, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/8fCqve-6V3enjkg3FeKURg/ms.jpg", 
+    "violation_codes": [], 
+    "location": {
+      "cross_streets": "Avenue Of The Americas & 5th Ave", 
+      "city": "New York", 
+      "display_address": [
+        "9 W 53rd St", 
+        "Midtown West", 
+        "New York, NY 10019"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Midtown West"
+      ], 
+      "postal_code": "10019", 
+      "country_code": "US", 
+      "address": [
+        "9 W 53rd St"
+      ], 
+      "coordinate": {
+        "latitude": 40.760675445199, 
+        "longitude": -73.9763405174017
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "2123331220", 
+    "snippet_text": "I believe that The Modern lunch tasting menu is the best deal in town. I'm often surprised that the dining room is only about about 95% full when I visit...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "French", 
+        "french"
+      ], 
       [
         "American (New)", 
         "newamerican"
-      ], 
-      [
-        "Bars", 
-        "bars"
       ]
     ], 
-    "distance": 865.2186711754047, 
-    "name": "Colonie", 
-    "url": "http://www.yelp.com/biz/colonie-brooklyn", 
-    "image_url": "http://s3-media2.fl.yelpassets.com/bphoto/InUL4f3POIQXMycVdhJUxQ/ms.jpg", 
-    "violation_score": 123, 
+    "distance": 549.0450833400448, 
+    "name": "The Dining Room at The Modern", 
+    "url": "http://www.yelp.com/biz/the-dining-room-at-the-modern-new-york", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/c-Ug_nuhR5clg16B9byB6Q/ms.jpg", 
+    "violation_score": 0, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1429352769
+    "menu_date_updated": 1413966738
+  }
+]: "single_platform", 
+    "menu_date_updated": 1413966738
+  }
+]menu_date_updated": 1429352769
   }, 
   {
     "rating": 4.0, 
