@@ -2,458 +2,58 @@
   {
     "rating": 4.5, 
     "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-554-1515", 
-    "id": "le-bernardin-new-york", 
+    "display_phone": "+1-718-282-7012", 
+    "id": "gandhi-fine-indian-cuisine-brooklyn", 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/le-bernardin-new-york", 
-    "review_count": 1497, 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/oHTqB1ZnspUkibwXkM5QEg/ms.jpg", 
-    "violation_codes": [], 
-    "location": {
-      "city": "New York", 
-      "display_address": [
-        "The Equitable Bldg", 
-        "155 W 51st St", 
-        "Theater District", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Theater District", 
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "The Equitable Bldg", 
-        "155 W 51st St"
-      ], 
-      "coordinate": {
-        "latitude": 40.761557, 
-        "longitude": -73.981763
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2125541515", 
-    "snippet_text": "Le Bernardin.  3 Michelin Stars since 2005. #21 on The San Pellegrino's 2014 World's 50 Best Restaurants.  #19 in 2012/13. #18 in 2011. #15 in 2010/09.  #20...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "Seafood", 
-        "seafood"
-      ], 
-      [
-        "French", 
-        "french"
-      ]
-    ], 
-    "distance": 289.054269291985, 
-    "name": "Le Bernardin", 
-    "url": "http://www.yelp.com/biz/le-bernardin-new-york", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/nBMxdpLhU-WyTS2vZu887w/ms.jpg", 
-    "violation_score": 0, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1418801404
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-823-9335", 
-    "id": "per-se-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/per-se-new-york", 
-    "review_count": 957, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/QwpA4MxQvDSSaMAFALBbSg/ms.jpg", 
+    "mobile_url": "http://m.yelp.com/biz/gandhi-fine-indian-cuisine-brooklyn", 
+    "review_count": 226, 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/XejI_zfKtD3dPhiGbPzLhQ/ms.jpg", 
     "violation_codes": [
-      "02G", 
-      " 20E", 
-      " 02B", 
-      " 06B", 
-      " 10F", 
-      " 06H", 
-      " 10H", 
-      " 04H", 
-      " 06C", 
-      " 06A", 
-      " 06I", 
-      " 99B"
-    ], 
-    "location": {
-      "cross_streets": "W Central Park & Broadway", 
-      "city": "New York", 
-      "display_address": [
-        "10 Columbus Circle", 
-        "Hell's Kitchen", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Hell's Kitchen", 
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "10 Columbus Circle"
-      ], 
-      "coordinate": {
-        "latitude": 40.7683214256935, 
-        "longitude": -73.9830343994446
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": false, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2128239335", 
-    "snippet_text": "Arriving slightly early (20 min) my brother and I decided to have a drink at the bar.  Interestingly the bar is just a long table, the bartender is behind a...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "French", 
-        "french"
-      ], 
-      [
-        "American (New)", 
-        "newamerican"
-      ]
-    ], 
-    "distance": 519.3829433472105, 
-    "name": "Per Se", 
-    "url": "http://www.yelp.com/biz/per-se-new-york", 
-    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/O4Z43bOpklSpoSq1WYRkDQ/ms.jpg", 
-    "violation_score": 118, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1418098686
-  }, 
-  {
-    "is_claimed": true, 
-    "distance": 530.9220999753065, 
-    "mobile_url": "http://m.yelp.com/biz/top-of-the-rock-new-york", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 1035, 
-    "name": "Top of the Rock", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/top-of-the-rock-new-york", 
-    "categories": [
-      [
-        "Landmarks & Historical Buildings", 
-        "landmarks"
-      ], 
-      [
-        "Tours", 
-        "tours"
-      ]
-    ], 
-    "violation_codes": [], 
-    "is_closed": false, 
-    "phone": "2126982000", 
-    "snippet_text": "Definitely worth checking out, EVEN if you've been on the Empire State Building. I like to to think of Top of the Rock as the flashy Hollywood-esque version...", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/jNGfkBYSVCUQb0leq_4DJA/ms.jpg", 
-    "location": {
-      "city": "New York", 
-      "display_address": [
-        "30 Rockefeller Ctr", 
-        "Midtown West", 
-        "New York, NY 10112"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Midtown West"
-      ], 
-      "postal_code": "10112", 
-      "country_code": "US", 
-      "address": [
-        "30 Rockefeller Ctr"
-      ], 
-      "coordinate": {
-        "latitude": 40.7593342608422, 
-        "longitude": -73.9794015884399
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-212-698-2000", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 0, 
-    "id": "top-of-the-rock-new-york", 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/GvaI0KqtgsgfR550aJGymA/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "is_claimed": true, 
-    "distance": 278.0685464783961, 
-    "mobile_url": "http://m.yelp.com/biz/the-halal-guys-new-york-2", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 6205, 
-    "name": "The Halal Guys", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/the-halal-guys-new-york-2", 
-    "categories": [
-      [
-        "Food Stands", 
-        "foodstands"
-      ], 
-      [
-        "Middle Eastern", 
-        "mideastern"
-      ], 
-      [
-        "Halal", 
-        "halal"
-      ]
-    ], 
-    "violation_codes": [], 
-    "is_closed": false, 
-    "phone": "3475271505", 
-    "snippet_text": "After hearing so much about this place, I had to check it out when we were in town.\n\nThis place lives up to the hype; I got the mixed plate with extra white...", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/uC0o4UnxbSXEwiy_MctH_w/ms.jpg", 
-    "location": {
-      "city": "New York", 
-      "display_address": [
-        "6th Ave & W 53rd St", 
-        "Theater District", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Theater District", 
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "6th Ave & W 53rd St"
-      ], 
-      "coordinate": {
-        "latitude": 40.7617559582706, 
-        "longitude": -73.979229927063
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-347-527-1505", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 0, 
-    "id": "the-halal-guys-new-york-2", 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/nve91xuAMLtgncj9lfYS4w/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "is_claimed": false, 
-    "distance": 236.1209434307533, 
-    "mobile_url": "http://m.yelp.com/biz/love-sculpture-new-york", 
-    "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
-    "review_count": 48, 
-    "name": "Love Sculpture", 
-    "rating": 5.0, 
-    "url": "http://www.yelp.com/biz/love-sculpture-new-york", 
-    "is_closed": false, 
-    "snippet_text": "One more thing to LOVE about New York City.  They say, a picture is worth a 1,000 words...... but in this case, it's worth just ONE word....... LOVE.  The...", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/QB5CYCsfIN6Xgvi3y5ssoQ/ms.jpg", 
-    "categories": [
-      [
-        "Local Flavor", 
-        "localflavor"
-      ]
-    ], 
-    "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png", 
-    "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
-    "id": "love-sculpture-new-york", 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/HUoxo5CnYAPUQgPAnxRnmw/ms.jpg", 
-    "location": {
-      "city": "New York", 
-      "display_address": [
-        "1359 Ave of the Americas", 
-        "Midtown West", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "1359 Ave of the Americas"
-      ], 
-      "coordinate": {
-        "latitude": 40.7629231363535, 
-        "longitude": -73.9782817661762
-      }, 
-      "state_code": "NY"
-    }
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-299-3900", 
-    "id": "jean-georges-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/jean-georges-new-york", 
-    "review_count": 1172, 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/oHTqB1ZnspUkibwXkM5QEg/ms.jpg", 
-    "violation_codes": [
-      "10F", 
-      " 22A", 
-      " 06C", 
-      " 04N", 
-      " 08A", 
-      " 04H", 
-      " 06D", 
+      "06C", 
       " 08C", 
-      " 02G", 
-      " 10D", 
-      " 10B", 
-      " 09C"
-    ], 
-    "location": {
-      "city": "New York", 
-      "display_address": [
-        "1 Central Park W", 
-        "Upper West Side", 
-        "New York, NY 10023"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Upper West Side"
-      ], 
-      "postal_code": "10023", 
-      "country_code": "US", 
-      "address": [
-        "1 Central Park W"
-      ], 
-      "coordinate": {
-        "latitude": 40.7689095, 
-        "longitude": -73.9817581
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2122993900", 
-    "snippet_text": "Jean Georges.  3 Michelin Stars in 2015.  10 years in a row.  #98 on The San Pellegrino's 2014 World's 50 Best Restaurants.  #19 in 2009. #17 in 2008. #18...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "French", 
-        "french"
-      ]
-    ], 
-    "distance": 567.1878329939807, 
-    "name": "Jean-Georges", 
-    "url": "http://www.yelp.com/biz/jean-georges-new-york", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/mkrQ2lRSuLBnYNXknktQWA/ms.jpg", 
-    "violation_score": 83, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1427287644
-  }, 
-  {
-    "is_claimed": true, 
-    "distance": 412.4016937435837, 
-    "mobile_url": "http://m.yelp.com/biz/bibble-and-sip-new-york-2", 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 182, 
-    "name": "Bibble & Sip", 
-    "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/bibble-and-sip-new-york-2", 
-    "categories": [
-      [
-        "Cafes", 
-        "cafes"
-      ], 
-      [
-        "Coffee & Tea", 
-        "coffee"
-      ], 
-      [
-        "Bakeries", 
-        "bakeries"
-      ]
-    ], 
-    "violation_codes": [
-      "10F"
-    ], 
-    "is_closed": false, 
-    "phone": "6466495116", 
-    "snippet_text": "Alright folks, hear me out. Their lavender latte, on first sip, tastes like grandma soap -- you know, that lavender soap your grandma uses?? The first...", 
-    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/20CGWyNCRMq5za6-ZqVt5w/ms.jpg", 
-    "location": {
-      "city": "New York", 
-      "display_address": [
-        "253 W 51 St", 
-        "Hell's Kitchen", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Hell's Kitchen", 
-        "Theater District", 
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "253 W 51 St"
-      ], 
-      "coordinate": {
-        "latitude": 40.762905, 
-        "longitude": -73.985085
-      }, 
-      "state_code": "NY"
-    }, 
-    "display_phone": "+1-646-649-5116", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 3, 
-    "id": "bibble-and-sip-new-york-2", 
-    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/8_Sz25ThKXdsbz_FRbGXFA/ms.jpg", 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-265-2703", 
-    "id": "bengal-tiger-indian-food-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/bengal-tiger-indian-food-new-york", 
-    "review_count": 275, 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/fJb936IkLaGJQqzqCLGADw/ms.jpg", 
-    "violation_codes": [
-      "06A", 
-      " 22C", 
-      " 02G", 
       " 10F", 
-      " 02I", 
-      " 16B"
+      " 02B", 
+      " 04L", 
+      " 08A", 
+      " 10D", 
+      " 02G", 
+      " 04C", 
+      " 04N", 
+      " 06A", 
+      " 06D", 
+      " 10B", 
+      " 06E", 
+      " 06F", 
+      " 09A"
     ], 
     "location": {
-      "cross_streets": "5th Ave & Avenue Of The Americas", 
-      "city": "New York", 
+      "cross_streets": "Lenox Rd & Clarkson Ave", 
+      "city": "Brooklyn", 
       "display_address": [
-        "58 W 56th St", 
-        "2nd Fl", 
-        "Midtown West", 
-        "New York, NY 10019"
+        "2032 Bedford Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
       ], 
-      "geo_accuracy": 9.5, 
+      "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "Midtown West"
+        "Flatbush", 
+        "Prospect Lefferts Gardens"
       ], 
-      "postal_code": "10019", 
+      "postal_code": "11226", 
       "country_code": "US", 
       "address": [
-        "58 W 56th St", 
-        "2nd Fl"
+        "2032 Bedford Ave"
       ], 
       "coordinate": {
-        "latitude": 40.763167, 
-        "longitude": -73.977131
+        "latitude": 40.6552210450172, 
+        "longitude": -73.9563708007336
       }, 
       "state_code": "NY"
     }, 
-    "is_claimed": true, 
+    "is_claimed": false, 
     "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2122652703", 
-    "snippet_text": "Bengal Tiger is not only the best Indian food I've had it NYC, it may just be the best Indian food I've had EVER! This place did it right with the food and...", 
+    "phone": "7182827012", 
+    "snippet_text": "BEST MANGO LASSI IN THE WORLD! Excellent food and service, hands down one of the best I've been to.\n\nThe chicken tikka masala was very interesting!", 
     "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
     "categories": [
       [
@@ -461,770 +61,1120 @@
         "indpak"
       ]
     ], 
-    "distance": 310.6883972125825, 
-    "name": "Bengal Tiger Indian Food", 
-    "url": "http://www.yelp.com/biz/bengal-tiger-indian-food-new-york", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/OARTVLqkGqX-G4boJq2E9w/ms.jpg", 
-    "violation_score": 14, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1415620710
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-575-5129", 
-    "id": "del-friscos-double-eagle-steak-house-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/del-friscos-double-eagle-steak-house-new-york", 
-    "review_count": 1391, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/KXLJ5r8FbnBqRWoTwHCnaQ/ms.jpg", 
-    "violation_codes": [
-      "02G", 
-      " 10F", 
-      " 02B", 
-      " 02H", 
-      " 06D", 
-      " 10H", 
-      " 06E", 
-      " 10B", 
-      " 06C", 
-      " 04H"
-    ], 
-    "location": {
-      "cross_streets": "48th St & 49th St", 
-      "city": "New York", 
-      "display_address": [
-        "1221 Avenue of the Americas", 
-        "Theater District", 
-        "New York, NY 10020"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Theater District", 
-        "Midtown West"
-      ], 
-      "postal_code": "10020", 
-      "country_code": "US", 
-      "address": [
-        "1221 Avenue of the Americas"
-      ], 
-      "coordinate": {
-        "latitude": 40.759568, 
-        "longitude": -73.982074
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2125755129", 
-    "snippet_text": "Rarely does exquisite food meet equally good service like it does at Del Frisco's. \n\n\nThe service: We came here on a Sunday night for my mom's birthday and...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "Steakhouses", 
-        "steak"
-      ]
-    ], 
-    "distance": 508.8998479988931, 
-    "name": "Del Frisco's Double Eagle Steak House", 
-    "url": "http://www.yelp.com/biz/del-friscos-double-eagle-steak-house-new-york", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/FyQ0V-QtndWStk5B8qwjXw/ms.jpg", 
-    "violation_score": 101, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1426628382
-  }, 
-  {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-212-582-5100", 
-    "id": "marea-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/marea-new-york", 
-    "review_count": 1036, 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/Pv7iRMByx-DdyvpiQGLIrA/ms.jpg", 
-    "violation_codes": [
-      "06D", 
-      " 10F", 
-      " 02B", 
-      " 02G", 
-      " 04C", 
-      " 09A", 
-      " 03A", 
-      " 06A", 
-      " 06B", 
-      " 06E", 
-      " 04H", 
-      " 04N", 
-      " 08A", 
-      " 10H"
-    ], 
-    "location": {
-      "city": "New York", 
-      "display_address": [
-        "240 Central Park S", 
-        "Midtown West", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "240 Central Park S"
-      ], 
-      "coordinate": {
-        "latitude": 40.7674426993125, 
-        "longitude": -73.9808475656193
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "2125825100", 
-    "snippet_text": "Everything on the menu looks exquisite! \n\nWe went for the prefix, I had the Polipo appetizer, scallops entr\u00e9e and chocolate dessert (of course). The food...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "categories": [
-      [
-        "Italian", 
-        "italian"
-      ], 
-      [
-        "Seafood", 
-        "seafood"
-      ]
-    ], 
-    "distance": 381.52061039517304, 
-    "name": "Marea", 
-    "url": "http://www.yelp.com/biz/marea-new-york", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/wVb5eutJbdMxrCj6HdQLpQ/ms.jpg", 
-    "violation_score": 120, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1416542754
-  }, 
-  {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-212-371-7777", 
-    "id": "quality-meats-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/quality-meats-new-york", 
-    "review_count": 1063, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/G7xN9soRhhZozXPWgmXM8w/ms.jpg", 
-    "violation_codes": [
-      "06D", 
-      " 09C", 
-      " 10F", 
-      " 02B", 
-      " 02G", 
-      " 04C", 
-      " 06A", 
-      " 06B", 
-      " 10B", 
-      " 20E", 
-      " 04L", 
-      " 04N", 
-      " 08A", 
-      " 06E"
-    ], 
-    "location": {
-      "cross_streets": "Avenue Of The Americas & Grand Army Plz", 
-      "city": "New York", 
-      "display_address": [
-        "57 W 58th St", 
-        "Midtown West", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 9.5, 
-      "neighborhoods": [
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "57 W 58th St"
-      ], 
-      "coordinate": {
-        "latitude": 40.764958, 
-        "longitude": -73.976206
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "2123717777", 
-    "snippet_text": "I came here for a dinner party a year ago and got the filet with marrow which was definitely tender and savory.\n\nThey have a great collection of wines and a...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "categories": [
-      [
-        "Meat Shops", 
-        "meats"
-      ], 
-      [
-        "Seafood", 
-        "seafood"
-      ], 
-      [
-        "Steakhouses", 
-        "steak"
-      ]
-    ], 
-    "distance": 388.3560940517656, 
-    "name": "Quality Meats", 
-    "url": "http://www.yelp.com/biz/quality-meats-new-york", 
-    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/J-xkh7xVC1pqkxYmChG-fw/ms.jpg", 
-    "violation_score": 171, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1417146327
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-956-0670", 
-    "id": "sugiyama-restaurant-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/sugiyama-restaurant-new-york", 
-    "review_count": 184, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/ldoQW5iIlrNI-pr2GH4w2g/ms.jpg", 
-    "violation_codes": [
-      "06C", 
-      " 10F", 
-      " 02B", 
-      " 06D", 
-      " 15L", 
-      " 08C"
-    ], 
-    "location": {
-      "cross_streets": "Broadway & 8th Ave", 
-      "city": "New York", 
-      "display_address": [
-        "251 W 55th St", 
-        "Midtown West", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "251 W 55th St"
-      ], 
-      "coordinate": {
-        "latitude": 40.7653694, 
-        "longitude": -73.9831085
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": false, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2129560670", 
-    "snippet_text": "If you are looking for unique dining in NYC, I would say this is the place to go.  I honestly never even thought to look for kaiseki (multi-course Japanese...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "Japanese", 
-        "japanese"
-      ]
-    ], 
-    "distance": 254.08146186926783, 
-    "name": "Sugiyama Restaurant", 
-    "url": "http://www.yelp.com/biz/sugiyama-restaurant-new-york", 
-    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/bjx68Uk62lHoqYl-E9IoZA/ms.jpg", 
-    "violation_score": 39, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1387613666
-  }, 
-  {
-    "rating": 4.0, 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-212-245-4555", 
-    "id": "yakitori-totto-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/yakitori-totto-new-york", 
-    "review_count": 847, 
-    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/-Co3gome6atIcBjTo2igUA/ms.jpg", 
-    "violation_codes": [
-      "02A", 
-      " 04C", 
-      " 06C", 
-      " 10F", 
-      " 04M", 
-      " 08A", 
-      " 02G", 
-      " 02B"
-    ], 
-    "location": {
-      "cross_streets": "Broadway & 8th Ave", 
-      "city": "New York", 
-      "display_address": [
-        "251 W 55th St", 
-        "2nd Fl", 
-        "Midtown West", 
-        "New York, NY 10019"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Midtown West"
-      ], 
-      "postal_code": "10019", 
-      "country_code": "US", 
-      "address": [
-        "251 W 55th St", 
-        "2nd Fl"
-      ], 
-      "coordinate": {
-        "latitude": 40.765373, 
-        "longitude": -73.983116
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "2122454555", 
-    "snippet_text": "Yum! Food was excellent, and I had a great time.\n\nI came here with my husband without a reservation, because we just flew in from Los Angeles. I was curious...", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "categories": [
-      [
-        "Japanese", 
-        "japanese"
-      ]
-    ], 
-    "distance": 257.0436682409492, 
-    "name": "Yakitori Totto", 
-    "url": "http://www.yelp.com/biz/yakitori-totto-new-york", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/PtiWOVwdV5J_Qv2S6G2sng/ms.jpg", 
-    "violation_score": 63, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1387623423
+    "distance": 508.1161332571173, 
+    "name": "Gandhi Fine Indian Cuisine", 
+    "url": "http://www.yelp.com/biz/gandhi-fine-indian-cuisine-brooklyn", 
+    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/KleNAKJLQOS-T7oQGWLBLA/ms.jpg", 
+    "violation_score": 119, 
+    "menu_provider": "eat24", 
+    "menu_date_updated": 1402581140
   }, 
   {
     "is_claimed": true, 
-    "distance": 256.37002977241247, 
-    "mobile_url": "http://m.yelp.com/biz/zibetto-espresso-bar-new-york", 
-    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "review_count": 288, 
-    "name": "Zibetto Espresso Bar", 
-    "rating": 4.0, 
-    "url": "http://www.yelp.com/biz/zibetto-espresso-bar-new-york", 
-    "is_closed": false, 
-    "snippet_text": "Love this place! \n\nGreat coffee, great salami sandwiches, and friendly staff.\n\nIt's a small coffee bar, not a seating place, but it's a nice place to stop...", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/C64d_uPlhAyrlQPfRsfPXQ/ms.jpg", 
+    "distance": 577.4151980918582, 
+    "mobile_url": "http://m.yelp.com/biz/gratitude-cafe-brooklyn", 
+    "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+    "review_count": 33, 
+    "name": "Gratitude Cafe", 
+    "rating": 5.0, 
+    "url": "http://www.yelp.com/biz/gratitude-cafe-brooklyn", 
     "categories": [
       [
         "Coffee & Tea", 
         "coffee"
+      ], 
+      [
+        "Cafes", 
+        "cafes"
       ]
     ], 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
-    "id": "zibetto-espresso-bar-new-york", 
-    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/2T1xBCLYKetnM5-qgwEOOQ/ms.jpg", 
+    "violation_codes": [
+      "10I"
+    ], 
+    "is_closed": false, 
+    "phone": "3474137944", 
+    "snippet_text": "This is a wonderful Place! I have lived my entire life in this neighborhood and remember the empty space that used to be there. I remember when Gratitude...", 
+    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/3uw8Q0QVCAkp6hExFVPohw/ms.jpg", 
     "location": {
-      "city": "New York", 
+      "cross_streets": "Midwood St & Maple St", 
+      "city": "Brooklyn", 
       "display_address": [
-        "1385 6th Ave", 
-        "Midtown West", 
-        "New York, NY 10019"
+        "499 Rogers Ave", 
+        "Prospect Lefferts Gardens", 
+        "Brooklyn, NY 11225"
       ], 
       "geo_accuracy": 9.5, 
       "neighborhoods": [
-        "Midtown West"
+        "Prospect Lefferts Gardens"
       ], 
-      "postal_code": "10019", 
+      "postal_code": "11225", 
       "country_code": "US", 
       "address": [
-        "1385 6th Ave"
+        "499 Rogers Ave"
       ], 
       "coordinate": {
-        "latitude": 40.7639232809413, 
-        "longitude": -73.9776043465576
+        "latitude": 40.6598596691337, 
+        "longitude": -73.9533801189785
       }, 
       "state_code": "NY"
-    }
+    }, 
+    "display_phone": "+1-347-413-7944", 
+    "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+    "violation_score": 2, 
+    "id": "gratitude-cafe-brooklyn", 
+    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/9009UUF3lT26SiSEqRlnmA/ms.jpg", 
+    "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png"
   }, 
   {
-    "is_claimed": true, 
-    "distance": 285.1126721860352, 
-    "mobile_url": "http://m.yelp.com/biz/beyond-sushi-midtown-west-new-york-2", 
+    "is_claimed": false, 
+    "distance": 740.2606867109747, 
+    "mobile_url": "http://m.yelp.com/biz/strictly-vegetarian-restaurant-brooklyn", 
     "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "review_count": 44, 
-    "name": "Beyond Sushi Midtown West", 
+    "review_count": 52, 
+    "name": "Strictly Vegetarian Restaurant", 
     "rating": 4.5, 
-    "url": "http://www.yelp.com/biz/beyond-sushi-midtown-west-new-york-2", 
+    "url": "http://www.yelp.com/biz/strictly-vegetarian-restaurant-brooklyn", 
     "categories": [
-      [
-        "Sushi Bars", 
-        "sushi"
-      ], 
-      [
-        "Vegan", 
-        "vegan"
-      ], 
       [
         "Vegetarian", 
         "vegetarian"
       ]
     ], 
     "violation_codes": [
-      "10B", 
-      " 10F"
+      "06C", 
+      " 08C", 
+      " 10B", 
+      " 10F", 
+      " 04L", 
+      " 04N", 
+      " 06F", 
+      " 08A", 
+      " 09C", 
+      " 06A", 
+      " 10H", 
+      " 22C", 
+      " 02H", 
+      " 04C", 
+      " 02B", 
+      " 10E"
     ], 
     "is_closed": false, 
-    "phone": "6469645097", 
-    "snippet_text": "Really interesting, creative and tasty vegetarian sushi place. Haven't seen anything like this in NYC in all my years here. There are several rolls,...", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/S2gnLcWecwfiv6lRBtcldg/ms.jpg", 
+    "phone": "7182842543", 
+    "snippet_text": "The food here isn't photo-friendly but what it lacks in sexy looks, it makes up for in pure deliciousness. The first time I walked in, I knew it would be...", 
+    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/btmzP9FwxgNX4mIcBL9GDA/ms.jpg", 
     "location": {
-      "cross_streets": "5th Ave & Avenue Of The Americas", 
-      "city": "New York", 
+      "cross_streets": "Flatbush Ave & Bedford Ave", 
+      "city": "Brooklyn", 
       "display_address": [
-        "62 W 56th St", 
-        "Midtown West", 
-        "New York, NY 10019"
+        "2268 Church Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
       ], 
       "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "Midtown West"
+        "Flatbush", 
+        "Prospect Park South"
       ], 
-      "postal_code": "10019", 
+      "postal_code": "11226", 
       "country_code": "US", 
       "address": [
-        "62 W 56th St"
+        "2268 Church Ave"
       ], 
       "coordinate": {
-        "latitude": 40.763214, 
-        "longitude": -73.977242
+        "latitude": 40.6503563, 
+        "longitude": -73.9566345
       }, 
       "state_code": "NY"
     }, 
-    "display_phone": "+1-646-964-5097", 
+    "display_phone": "+1-718-284-2543", 
     "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "violation_score": 4, 
-    "id": "beyond-sushi-midtown-west-new-york-2", 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/Wys1p-Z8aUIvLV61fyYxvw/ms.jpg", 
+    "violation_score": 68, 
+    "id": "strictly-vegetarian-restaurant-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/9CRa9d-C5QF7R7C1h4_s6g/ms.jpg", 
     "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
   }, 
   {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-759-5554", 
-    "id": "nerai-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/nerai-new-york", 
-    "review_count": 120, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/zqSJ8u_W8lH5OPu7-E41tA/ms.jpg", 
-    "violation_codes": [
-      "04H", 
-      " 10B", 
-      " 06D", 
-      " 06F", 
-      " 02G"
-    ], 
-    "location": {
-      "cross_streets": "Madison Ave & Park Ave", 
-      "city": "New York", 
-      "display_address": [
-        "55 E 54th St", 
-        "Midtown East", 
-        "New York, NY 10022"
-      ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Midtown East"
-      ], 
-      "postal_code": "10022", 
-      "country_code": "US", 
-      "address": [
-        "55 E 54th St"
-      ], 
-      "coordinate": {
-        "latitude": 40.760295, 
-        "longitude": -73.973007
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2127595554", 
-    "snippet_text": "I visit NYC quite a few times a year, but haven't gotten the knack for finding great restaurants. I was pleasantly surprised when the concierge recommended...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
-      [
-        "Greek", 
-        "greek"
-      ], 
-      [
-        "Mediterranean", 
-        "mediterranean"
-      ], 
-      [
-        "Bars", 
-        "bars"
-      ]
-    ], 
-    "distance": 764.4792589013115, 
-    "name": "Nerai", 
-    "url": "http://www.yelp.com/biz/nerai-new-york", 
-    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/64by4dJZGoP7ZVl5vKr9tQ/ms.jpg", 
-    "violation_score": 26, 
-    "menu_provider": "locu", 
-    "menu_date_updated": 1422459714
-  }, 
-  {
     "rating": 4.0, 
     "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-212-265-2610", 
-    "id": "basso56-new-york", 
+    "display_phone": "+1-718-282-2255", 
+    "id": "zen-vegetarian-house-brooklyn", 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/basso56-new-york", 
-    "review_count": 395, 
-    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/w9HWY7aeikQisMpVBK2XOQ/ms.jpg", 
+    "mobile_url": "http://m.yelp.com/biz/zen-vegetarian-house-brooklyn", 
+    "review_count": 140, 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/TJUxAx9B5_fpw36xv_-IlQ/ms.jpg", 
     "violation_codes": [
-      "06C", 
-      " 06D", 
-      " 10F", 
-      " 04L", 
-      " 08A", 
-      " 09B", 
-      " 04N", 
-      " 02B", 
-      " 02G", 
-      " 06A", 
-      " 10J", 
-      " 08C", 
+      "06D", 
       " 10B", 
-      " 10H", 
-      " 22C", 
-      " 04H"
+      " 10F", 
+      " 02B", 
+      " 04L", 
+      " 04N", 
+      " 08A", 
+      " 04M", 
+      " 02G", 
+      " 06F", 
+      " 08C"
     ], 
     "location": {
-      "cross_streets": "Broadway & 8th Ave", 
-      "city": "New York", 
+      "cross_streets": "Lenox Rd & Woodruff Ave", 
+      "city": "Brooklyn", 
       "display_address": [
-        "234 W 56th St", 
-        "Midtown West", 
-        "New York, NY 10019"
+        "773 Flatbush Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
       ], 
       "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "Midtown West"
+        "Flatbush", 
+        "Prospect Park South"
       ], 
-      "postal_code": "10019", 
+      "postal_code": "11226", 
       "country_code": "US", 
       "address": [
-        "234 W 56th St"
+        "773 Flatbush Ave"
       ], 
       "coordinate": {
-        "latitude": 40.765502, 
-        "longitude": -73.982673
+        "latitude": 40.653957, 
+        "longitude": -73.959175
       }, 
       "state_code": "NY"
     }, 
     "is_claimed": true, 
     "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "2122652610", 
-    "snippet_text": "I have been here twice and both times the food has been amazing.  We made last minute reservations and they were easily able to accommodate us (3)....", 
+    "phone": "7182822255", 
+    "snippet_text": "Recommended.\nWe ordered wanton soup, dumplings and duck and enjoined.\nThe staff is very nice.", 
     "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
     "categories": [
       [
-        "Italian", 
-        "italian"
-      ]
-    ], 
-    "distance": 237.6930294257997, 
-    "name": "Basso56", 
-    "url": "http://www.yelp.com/biz/basso56-new-york", 
-    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/jKHb5YT1U5uHx4psdIwOKw/ms.jpg", 
-    "violation_score": 122, 
-    "menu_provider": "single_platform", 
-    "menu_date_updated": 1426506145
-  }, 
-  {
-    "rating": 4.5, 
-    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
-    "display_phone": "+1-212-752-1495", 
-    "id": "la-grenouille-new-york", 
-    "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/la-grenouille-new-york", 
-    "review_count": 232, 
-    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/XUZ_xW7S5HcHMoS8qGsCWg/ms.jpg", 
-    "violation_codes": [
-      "06E", 
-      " 10B", 
-      " 10F", 
-      " 02G", 
-      " 06C"
-    ], 
-    "location": {
-      "cross_streets": "5th Ave & Madison Ave", 
-      "city": "New York", 
-      "display_address": [
-        "3 E 52nd St", 
-        "Midtown East", 
-        "New York, NY 10022"
+        "Vegetarian", 
+        "vegetarian"
       ], 
-      "geo_accuracy": 8.0, 
-      "neighborhoods": [
-        "Midtown East"
-      ], 
-      "postal_code": "10022", 
-      "country_code": "US", 
-      "address": [
-        "3 E 52nd St"
-      ], 
-      "coordinate": {
-        "latitude": 40.7597198, 
-        "longitude": -73.9755402
-      }, 
-      "state_code": "NY"
-    }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
-    "phone": "2127521495", 
-    "snippet_text": "What can I say that may not have already been said. The space is fantastic. Beautiful flowers adorned all the empty space. The servers were amazing. I love...", 
-    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
-    "categories": [
       [
-        "French", 
-        "french"
+        "Diners", 
+        "diners"
       ]
     ], 
-    "distance": 644.2922990346117, 
-    "name": "La Grenouille", 
-    "url": "http://www.yelp.com/biz/la-grenouille-new-york", 
-    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/g9Zn2S13p2PjvQ_XNCIRPg/ms.jpg", 
-    "violation_score": 32, 
+    "distance": 770.0226874856767, 
+    "name": "Zen Vegetarian House", 
+    "url": "http://www.yelp.com/biz/zen-vegetarian-house-brooklyn", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/M6tNedJHEUTmrPttnLVlew/ms.jpg", 
+    "violation_score": 92, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1418469130
+    "menu_date_updated": 1416986771
   }, 
   {
     "rating": 4.0, 
     "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-212-245-7400", 
-    "id": "estiatorio-milos-new-york", 
+    "display_phone": "+1-347-529-1080", 
+    "id": "mangoseed-restaurant-brooklyn-2", 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/estiatorio-milos-new-york", 
-    "review_count": 462, 
-    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/sjOTjZkupMTbQdEaJyil1Q/ms.jpg", 
+    "mobile_url": "http://m.yelp.com/biz/mangoseed-restaurant-brooklyn-2", 
+    "review_count": 284, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/aWROwXEdaMHdYyUKwdUJkA/ms.jpg", 
     "violation_codes": [
-      "06E", 
-      " 10B", 
-      " 04L", 
-      " 08A", 
+      "02G", 
+      " 08B", 
       " 10F", 
-      " 02G", 
-      " 04M", 
-      " 06C", 
-      " 06D", 
-      " 10H", 
-      " 02B", 
-      " 04C", 
       " 10J", 
-      " 16B"
+      " 06D", 
+      " 09C", 
+      " 10D", 
+      " 10H", 
+      " 04M", 
+      " 08A", 
+      " 08C", 
+      " 06C", 
+      " 10B", 
+      " 16A"
     ], 
     "location": {
-      "cross_streets": "7th Ave & Avenue Of The Americas", 
-      "city": "New York", 
+      "cross_streets": "Lenox Rd & Woodruff Ave", 
+      "city": "Brooklyn", 
       "display_address": [
-        "125 W 55th St", 
-        "Midtown West", 
-        "New York, NY 10019"
+        "757 Flatbush Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
       ], 
-      "geo_accuracy": 8.0, 
+      "geo_accuracy": 9.5, 
       "neighborhoods": [
-        "Midtown West"
+        "Flatbush", 
+        "Prospect Park South"
       ], 
-      "postal_code": "10019", 
+      "postal_code": "11226", 
       "country_code": "US", 
       "address": [
-        "125 W 55th St"
+        "757 Flatbush Ave"
       ], 
       "coordinate": {
-        "latitude": 40.7636375, 
-        "longitude": -73.9792328
+        "latitude": 40.6541492290788, 
+        "longitude": -73.9593708515167
       }, 
       "state_code": "NY"
     }, 
     "is_claimed": true, 
     "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "2122457400", 
-    "snippet_text": "A truly outstanding meal at an unbeatable price.  We did the Pre/Post Dinner Pre Fixe priced at $49 for 4 courses - incredible!  I had the grilled octopus,...", 
+    "phone": "3475291080", 
+    "snippet_text": "My girlfriend is really smart and knows a lot about good food and this place still managed to impress her. Thanks for making me look good, MangoSeed!\n\nAlso,...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Caribbean", 
+        "caribbean"
+      ], 
+      [
+        "Breakfast & Brunch", 
+        "breakfast_brunch"
+      ]
+    ], 
+    "distance": 772.0196412723827, 
+    "name": "MangoSeed Restaurant", 
+    "url": "http://www.yelp.com/biz/mangoseed-restaurant-brooklyn-2", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/W_yUrTLFolAiSfrQkjK44Q/ms.jpg", 
+    "violation_score": 55, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1418530007
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-826-1807", 
+    "id": "bake-and-things-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/bake-and-things-brooklyn", 
+    "review_count": 47, 
+    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/LFv0OoKfEibdS77UEwD2Fw/ms.jpg", 
+    "violation_codes": [
+      "04H", 
+      " 22C", 
+      " 02B", 
+      " 04L", 
+      " 04N", 
+      " 06C", 
+      " 06D", 
+      " 08A", 
+      " 10B", 
+      " 02H", 
+      " 02G", 
+      " 10A", 
+      " 05D", 
+      " 10F"
+    ], 
+    "location": {
+      "cross_streets": "Church Ave & Snyder Ave", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "184 E 35th St", 
+        "East Flatbush", 
+        "Brooklyn, NY 11203"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "East Flatbush"
+      ], 
+      "postal_code": "11203", 
+      "country_code": "US", 
+      "address": [
+        "184 E 35th St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6507316976786, 
+        "longitude": -73.9447950571775
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7188261807", 
+    "snippet_text": "After getting take out from this spot on one day, I found myself craving their food the next. Bake and things specializes in Trini and Caribbean food. I had...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Caribbean", 
+        "caribbean"
+      ]
+    ], 
+    "distance": 673.2365057900751, 
+    "name": "Bake & Things", 
+    "url": "http://www.yelp.com/biz/bake-and-things-brooklyn", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/2AudXsTP8cpxNmlDMQpfVw/ms.jpg", 
+    "violation_score": 166, 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1387513128
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 494.09642350473825, 
+    "mobile_url": "http://m.yelp.com/biz/exquisite-delight-brooklyn", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 60, 
+    "name": "Exquisite Delight", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/exquisite-delight-brooklyn", 
+    "categories": [
+      [
+        "Caribbean", 
+        "caribbean"
+      ]
+    ], 
+    "violation_codes": [
+      "04N", 
+      " 08A", 
+      " 10F", 
+      " 02B", 
+      " 06B", 
+      " 04D", 
+      " 04L", 
+      " 05D", 
+      " 10B", 
+      " 04H", 
+      " 06C", 
+      " 99B"
+    ], 
+    "is_closed": false, 
+    "phone": "7186934643", 
+    "snippet_text": "Background: Dropped in on a recent Sunday afternoon for take-out\n\nFood: Main dish - A large jerk chicken entree with veggies, plantains, rice and beans....", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/7hdyweXN18s-8eOtjwWxdg/ms.jpg", 
+    "location": {
+      "cross_streets": "Lloyd St & Nostrand Ave", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "2847 Church Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Flatbush"
+      ], 
+      "postal_code": "11226", 
+      "country_code": "US", 
+      "address": [
+        "2847 Church Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6508101522923, 
+        "longitude": -73.9505691826344
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-693-4643", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "violation_score": 108, 
+    "id": "exquisite-delight-brooklyn", 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/T4qgM9iAKj0GFzl9Dq2Qyg/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 1039.5979139931885, 
+    "mobile_url": "http://m.yelp.com/biz/ervs-on-beekman-prospect-lefferts-gardens", 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 31, 
+    "name": "Erv's on Beekman", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/ervs-on-beekman-prospect-lefferts-gardens", 
+    "categories": [
+      [
+        "Cocktail Bars", 
+        "cocktailbars"
+      ]
+    ], 
+    "is_closed": false, 
+    "phone": "9169362122", 
+    "snippet_text": "If you appreciate a well-mixed drink, get it here. Rob suggested I try a variation on one of my favorite cocktails with a New York sazerac and it was...", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/EOqu5XNpd-fx9iJhfpr8xQ/ms.jpg", 
+    "location": {
+      "cross_streets": "Flatbush Ave", 
+      "city": "Prospect Lefferts Gardens", 
+      "display_address": [
+        "2122 Beekman Pl", 
+        "Prospect Lefferts Gardens", 
+        "Prospect Lefferts Gardens, NY 11225"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "2122 Beekman Pl"
+      ], 
+      "coordinate": {
+        "latitude": 40.6599645316601, 
+        "longitude": -73.960814550519
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-916-936-2122", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "id": "ervs-on-beekman-prospect-lefferts-gardens", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/INC5hNIauo68JdkKuoPlmA/ms.jpg", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 834.6386519728067, 
+    "mobile_url": "http://m.yelp.com/biz/blessings-herbs-and-coffee-prospect-lefferts-gardens", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 58, 
+    "name": "Blessings Herbs & Coffee", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/blessings-herbs-and-coffee-prospect-lefferts-gardens", 
+    "categories": [
+      [
+        "Coffee & Tea", 
+        "coffee"
+      ], 
+      [
+        "Breakfast & Brunch", 
+        "breakfast_brunch"
+      ]
+    ], 
+    "is_closed": false, 
+    "phone": "3477709746", 
+    "snippet_text": "Met up with some new friends who were playing music here and everything about this place screamed New York to me. It was the kind of place that if you...", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/RWUBAReLBYul2GZYM9CHpQ/ms.jpg", 
+    "location": {
+      "cross_streets": "Westbury Ct & Hawthorne St", 
+      "city": "Prospect Lefferts Gardens", 
+      "display_address": [
+        "663 Flatbush Ave", 
+        "Prospect Lefferts Gardens", 
+        "Prospect Lefferts Gardens, NY 11225"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "663 Flatbush Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.657035, 
+        "longitude": -73.959884
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-347-770-9746", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "id": "blessings-herbs-and-coffee-prospect-lefferts-gardens", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/mUdKRtPt3ecn7w4_wwI6tQ/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-347-533-6811", 
+    "id": "king-of-tandoor-brooklyn", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/king-of-tandoor-brooklyn", 
+    "review_count": 130, 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/n2bKDl31h9wClihBZVUWgw/ms.jpg", 
+    "violation_codes": [
+      "02B", 
+      " 10F", 
+      " 06C", 
+      " 10H", 
+      " 02G", 
+      " 04A", 
+      " 06F", 
+      " 10B", 
+      " 06A", 
+      " 03A", 
+      " 02H", 
+      " 06D", 
+      " 06E", 
+      " 04N", 
+      " 05D"
+    ], 
+    "location": {
+      "cross_streets": "Midwood St & Rutland Rd", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "600 Flatbush Ave", 
+        "Prospect Lefferts Gardens", 
+        "Brooklyn, NY 11225"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "600 Flatbush Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.658878, 
+        "longitude": -73.960808
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "3475336811", 
+    "snippet_text": "Don't be deterred by their neon \"OPEN\" sign and ubiquitous Christmas lights dangling off the front awning. This place is the jewel of Flatbush. Based on a...", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "categories": [
+      [
+        "Indian", 
+        "indpak"
+      ], 
+      [
+        "Halal", 
+        "halal"
+      ]
+    ], 
+    "distance": 973.4470397139514, 
+    "name": "King of Tandoor", 
+    "url": "http://www.yelp.com/biz/king-of-tandoor-brooklyn", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/S6cW5_e3q_FPY-_RdjUqwg/ms.jpg", 
+    "violation_score": 162, 
+    "menu_provider": "eat24", 
+    "menu_date_updated": 1428714706
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 77.79726227205708, 
+    "mobile_url": "http://m.yelp.com/biz/soldiers-restaurant-brooklyn", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 18, 
+    "name": "Soldier's Restaurant", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/soldiers-restaurant-brooklyn", 
+    "categories": [
+      [
+        "Caribbean", 
+        "caribbean"
+      ]
+    ], 
+    "id": "soldiers-restaurant-brooklyn", 
+    "is_closed": false, 
+    "phone": "7182844620", 
+    "snippet_text": "I moved to the area 5 days ago and have already eaten here an embarrassing  number of times lol. Don't judge me...I've been too busy to cook. I LOVE that...", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/6suNpcmBEo5_FSoQZJxgjQ/ms.jpg", 
+    "location": {
+      "cross_streets": "Parkside Ave & Clarkson Ave", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "1278 Nostrand Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Flatbush", 
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11226", 
+      "country_code": "US", 
+      "address": [
+        "1278 Nostrand Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.65591, 
+        "longitude": -73.950378
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-284-4620", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1426061801, 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/gYg1zAo0ccOKlGVnwuy_Vw/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 888.6458108405594, 
+    "mobile_url": "http://m.yelp.com/biz/delroys-cafe-and-wine-bar-brooklyn", 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 30, 
+    "name": "Delroys Cafe and Wine Bar", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/delroys-cafe-and-wine-bar-brooklyn", 
+    "categories": [
+      [
+        "Cafes", 
+        "cafes"
+      ], 
+      [
+        "Wine Bars", 
+        "wine_bars"
+      ]
+    ], 
+    "is_closed": false, 
+    "phone": "3477156001", 
+    "snippet_text": "ABSOLUTELY love this place. I've only gone several times for their waffles (only on weekends) but they've brought me back again and again. The banana rum...", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/4wq6ZKzNtS02FnofTX_xAQ/ms.jpg", 
+    "location": {
+      "cross_streets": "Bedford Ave & Flatbush Ave", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "65A  Fenimore St", 
+        "Prospect Lefferts Gardens", 
+        "Brooklyn, NY 11225"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "65A  Fenimore St"
+      ], 
+      "coordinate": {
+        "latitude": 40.6582794, 
+        "longitude": -73.958992
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-347-715-6001", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "id": "delroys-cafe-and-wine-bar-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/assets/srv0/yelp_styleguide/cc4afe21892e/assets/img/default_avatars/user_medium_square.png", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png"
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 539.7928189308734, 
+    "mobile_url": "http://m.yelp.com/biz/mama-louisas-hero-shop-brooklyn", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 32, 
+    "name": "Mama Louisa's Hero Shop", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/mama-louisas-hero-shop-brooklyn", 
+    "categories": [
+      [
+        "Grocery", 
+        "grocery"
+      ], 
+      [
+        "Delis", 
+        "delis"
+      ]
+    ], 
+    "is_closed": false, 
+    "phone": "7187737785", 
+    "snippet_text": "Friendly staff, quick service, best subs for in the BK area for miles!\n\nFor a mom-and-pop store, this is one of the few gems remaining in the Lefferts...", 
+    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/xhygFvmilhzowCqbpn7FHQ/ms.jpg", 
+    "location": {
+      "cross_streets": "Rutland Rd & Fenimore St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "609 New York Ave", 
+        "Prospect Lefferts Gardens", 
+        "Brooklyn, NY 11203"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens", 
+        "Wingate"
+      ], 
+      "postal_code": "11203", 
+      "country_code": "US", 
+      "address": [
+        "609 New York Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.659489, 
+        "longitude": -73.947304
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-773-7785", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "id": "mama-louisas-hero-shop-brooklyn", 
+    "snippet_image_url": "http://s3-media3.fl.yelpcdn.com/photo/etA6d9QvhoL3yoysFFFW2A/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "rating": 4.0, 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "display_phone": "+1-718-826-0616", 
+    "id": "jus-fishy-brooklyn-2", 
+    "is_closed": false, 
+    "mobile_url": "http://m.yelp.com/biz/jus-fishy-brooklyn-2", 
+    "review_count": 39, 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/Ulb3e-evLm2PLwGa4mJ59w/ms.jpg", 
+    "violation_codes": [
+      "04H", 
+      " 10B", 
+      " 10F", 
+      " 09B", 
+      " 10A", 
+      " 06D", 
+      " 16B"
+    ], 
+    "location": {
+      "cross_streets": "Maple St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "555 Flatbush Ave", 
+        "Prospect Lefferts Gardens", 
+        "Brooklyn, NY 11225"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "555 Flatbush Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6604043, 
+        "longitude": -73.9604956
+      }, 
+      "state_code": "NY"
+    }, 
+    "is_claimed": true, 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
+    "phone": "7188260616", 
+    "snippet_text": "Just a Friday night and hungry and don't want meat.... \nI live in Canarsie thank goodness I drive cuz my seafood craving was in dire need. \nType \"seafood\"...", 
     "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
     "categories": [
       [
         "Seafood", 
         "seafood"
-      ], 
-      [
-        "Greek", 
-        "greek"
-      ], 
-      [
-        "Mediterranean", 
-        "mediterranean"
       ]
     ], 
-    "distance": 150.062447280402, 
-    "name": "Estiatorio Milos", 
-    "url": "http://www.yelp.com/biz/estiatorio-milos-new-york", 
-    "image_url": "http://s3-media4.fl.yelpcdn.com/bphoto/YOQoDfkWrlsLayeRX7tzew/ms.jpg", 
-    "violation_score": 94, 
+    "distance": 1033.972196534666, 
+    "name": "Jus Fishy", 
+    "url": "http://www.yelp.com/biz/jus-fishy-brooklyn-2", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/TXCSHSvTO-a0WMwu0CCMpg/ms.jpg", 
+    "violation_score": 24, 
     "menu_provider": "single_platform", 
-    "menu_date_updated": 1416465285
+    "menu_date_updated": 1422859760
   }, 
   {
-    "rating": 4.0, 
+    "is_claimed": false, 
+    "distance": 1101.1670798661185, 
+    "mobile_url": "http://m.yelp.com/biz/de-hot-pot-brooklyn", 
     "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
-    "display_phone": "+1-212-333-1220", 
-    "id": "the-dining-room-at-the-modern-new-york", 
+    "review_count": 63, 
+    "name": "De Hot Pot", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/de-hot-pot-brooklyn", 
+    "categories": [
+      [
+        "Caribbean", 
+        "caribbean"
+      ]
+    ], 
+    "violation_codes": [
+      "10F", 
+      " 04K", 
+      " 04L", 
+      " 04M", 
+      " 08A", 
+      " 10H", 
+      " 06A", 
+      " 08C"
+    ], 
     "is_closed": false, 
-    "mobile_url": "http://m.yelp.com/biz/the-dining-room-at-the-modern-new-york", 
-    "review_count": 523, 
-    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/8fCqve-6V3enjkg3FeKURg/ms.jpg", 
-    "violation_codes": [], 
+    "phone": "3472401180", 
+    "snippet_text": "\" Eh lemme get 8 doubles with everything on it na an puh extra peppa sauce\" that's how my order usually is , haven't tried anything else on the menu but the...", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/04GT2XfSps4K4AUqMFpRQQ/ms.jpg", 
     "location": {
-      "cross_streets": "Avenue Of The Americas & 5th Ave", 
-      "city": "New York", 
+      "cross_streets": "Lefferts Ave & Lincoln Rd", 
+      "city": "Brooklyn", 
       "display_address": [
-        "9 W 53rd St", 
-        "Midtown West", 
-        "New York, NY 10019"
+        "1127 Washington Ave", 
+        "Prospect Lefferts Gardens", 
+        "Brooklyn, NY 11225"
       ], 
       "geo_accuracy": 8.0, 
       "neighborhoods": [
-        "Midtown West"
+        "Prospect Lefferts Gardens"
       ], 
-      "postal_code": "10019", 
+      "postal_code": "11225", 
       "country_code": "US", 
       "address": [
-        "9 W 53rd St"
+        "1127 Washington Ave"
       ], 
       "coordinate": {
-        "latitude": 40.760675445199, 
-        "longitude": -73.9763405174017
+        "latitude": 40.661404, 
+        "longitude": -73.960487
       }, 
       "state_code": "NY"
     }, 
-    "is_claimed": true, 
-    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png", 
-    "phone": "2123331220", 
-    "snippet_text": "I believe that The Modern lunch tasting menu is the best deal in town. I'm often surprised that the dining room is only about about 95% full when I visit...", 
+    "display_phone": "+1-347-240-1180", 
     "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "violation_score": 33, 
+    "id": "de-hot-pot-brooklyn", 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/DCvy2Qa89yPT5gWBxhjF-w/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 778.2850419162614, 
+    "mobile_url": "http://m.yelp.com/biz/pels-pie-co-prospect-lefferts-gardens-2", 
+    "rating_img_url": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/99493c12711e/ico/stars/v1/stars_4_half.png", 
+    "review_count": 21, 
+    "name": "Pels Pie Co.", 
+    "rating": 4.5, 
+    "url": "http://www.yelp.com/biz/pels-pie-co-prospect-lefferts-gardens-2", 
+    "is_closed": false, 
+    "snippet_text": "So excited to see this place in my neighborhood! My husband told me about it Friday evening and we were buying our first 2 slices of pie 10 minutes later!...", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/un242CUk6X4rfRarBdi_5A/ms.jpg", 
     "categories": [
       [
-        "French", 
-        "french"
+        "Cafes", 
+        "cafes"
       ], 
       [
-        "American (New)", 
-        "newamerican"
+        "Bakeries", 
+        "bakeries"
       ]
     ], 
-    "distance": 549.0450833400448, 
-    "name": "The Dining Room at The Modern", 
-    "url": "http://www.yelp.com/biz/the-dining-room-at-the-modern-new-york", 
+    "rating_img_url_small": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/a5221e66bc70/ico/stars/v1/stars_small_4_half.png", 
+    "rating_img_url_large": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/9f83790ff7f6/ico/stars/v1/stars_large_4_half.png", 
+    "id": "pels-pie-co-prospect-lefferts-gardens-2", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/V9gBfId1WlgvbvXY0DqQgA/ms.jpg", 
+    "location": {
+      "cross_streets": "Lincoln Rd & Lefferts Ave", 
+      "city": "Prospect Lefferts Gardens", 
+      "display_address": [
+        "446 Rogers Ave", 
+        "Prospect Lefferts Gardens", 
+        "Prospect Lefferts Gardens, NY 11225"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "446 Rogers Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.661651, 
+        "longitude": -73.953941
+      }, 
+      "state_code": "NY"
+    }
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 945.4721956409489, 
+    "mobile_url": "http://m.yelp.com/biz/drill-professional-furniture-assembly-brooklyn-2", 
+    "rating_img_url": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/f1def11e4e79/ico/stars/v1/stars_5.png", 
+    "review_count": 64, 
+    "name": "Drill Professional Furniture Assembly", 
+    "rating": 5.0, 
+    "url": "http://www.yelp.com/biz/drill-professional-furniture-assembly-brooklyn-2", 
+    "categories": [
+      [
+        "Furniture Assembly", 
+        "furnitureassembly"
+      ]
+    ], 
+    "is_closed": false, 
+    "phone": "6463155264", 
+    "snippet_text": "I recently hired Drill Professional Furniture Assembly to build my massive 79\" Ikea PAX wardrobe and everything was PERFECT, from start to end. \n\nFirst, I...", 
+    "image_url": "http://s3-media1.fl.yelpcdn.com/bphoto/aTj-Gigax2UvNqcKfUmxog/ms.jpg", 
+    "location": {
+      "cross_streets": "Crooke Ave", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "395 Ocean Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Flatbush", 
+        "Prospect Park South"
+      ], 
+      "postal_code": "11226", 
+      "country_code": "US", 
+      "address": [
+        "395 Ocean Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.653324, 
+        "longitude": -73.961255
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-646-315-5264", 
+    "rating_img_url_large": "http://s3-media3.fl.yelpcdn.com/assets/2/www/img/22affc4e6c38/ico/stars/v1/stars_large_5.png", 
+    "id": "drill-professional-furniture-assembly-brooklyn-2", 
+    "snippet_image_url": "http://s3-media1.fl.yelpcdn.com/photo/K3zsjUxCoTrt2pINgPCnhQ/ms.jpg", 
+    "rating_img_url_small": "http://s3-media1.fl.yelpcdn.com/assets/2/www/img/c7623205d5cd/ico/stars/v1/stars_small_5.png"
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 807.578352168035, 
+    "mobile_url": "http://m.yelp.com/biz/peppas-jerk-chicken-brooklyn", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 69, 
+    "name": "Peppa's Jerk Chicken", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/peppas-jerk-chicken-brooklyn", 
+    "categories": [
+      [
+        "Caribbean", 
+        "caribbean"
+      ]
+    ], 
+    "is_closed": false, 
+    "phone": "6466836012", 
+    "snippet_text": "Escoveitch fish! 3 sizes! Small fish $5.00, medium-sized fish $6.00 or large size fish $7.00. \n\nGet that and festival $1.00 a piece and make sure ask for...", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/zNukBGMFhyf1yotMJk7AsA/ms.jpg", 
+    "location": {
+      "cross_streets": "Parkside Ave & Woodruff Ave", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "738 Flatbush Ave", 
+        "Flatbush", 
+        "Brooklyn, NY 11226"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Flatbush", 
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11226", 
+      "country_code": "US", 
+      "address": [
+        "738 Flatbush Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6549454, 
+        "longitude": -73.9598923
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-646-683-6012", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "id": "peppas-jerk-chicken-brooklyn", 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/b9CPUYar3u6V7kyF-vSv2A/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "is_claimed": true, 
+    "distance": 1051.9309002005775, 
+    "mobile_url": "http://m.yelp.com/biz/ginos-trattoria-brooklyn-2", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 92, 
+    "name": "Gino's Trattoria", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/ginos-trattoria-brooklyn-2", 
+    "categories": [
+      [
+        "Italian", 
+        "italian"
+      ], 
+      [
+        "Pizza", 
+        "pizza"
+      ]
+    ], 
+    "id": "ginos-trattoria-brooklyn-2", 
+    "is_closed": false, 
+    "phone": "3476635452", 
+    "snippet_text": "Italian food that never fails to satisfy!! I've ordered from this location numerous times via pickup and take out and never had a bad experience. \n\nThe...", 
+    "image_url": "http://s3-media3.fl.yelpcdn.com/bphoto/pCMlKEasK2lklcf_rTPO2w/ms.jpg", 
+    "location": {
+      "cross_streets": "Maple St", 
+      "city": "Brooklyn", 
+      "display_address": [
+        "548 Flatbush Ave", 
+        "Prospect Lefferts Gardens", 
+        "Brooklyn, NY 11225"
+      ], 
+      "geo_accuracy": 9.5, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "548 Flatbush Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6605221493743, 
+        "longitude": -73.9606475830078
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-347-663-5452", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "menu_provider": "single_platform", 
+    "menu_date_updated": 1417077496, 
+    "snippet_image_url": "http://s3-media4.fl.yelpcdn.com/photo/VcJqIoxE15hm8BnJ2WlC2g/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }, 
+  {
+    "is_claimed": false, 
+    "distance": 987.8402679998128, 
+    "mobile_url": "http://m.yelp.com/biz/midwood-flats-prospect-lefferts-gardens", 
+    "rating_img_url": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/c2f3dd9799a5/ico/stars/v1/stars_4.png", 
+    "review_count": 61, 
+    "name": "Midwood Flats", 
+    "rating": 4.0, 
+    "url": "http://www.yelp.com/biz/midwood-flats-prospect-lefferts-gardens", 
+    "categories": [
+      [
+        "Cocktail Bars", 
+        "cocktailbars"
+      ], 
+      [
+        "Gastropubs", 
+        "gastropubs"
+      ], 
+      [
+        "Pubs", 
+        "pubs"
+      ]
+    ], 
+    "is_closed": false, 
+    "phone": "7184844466", 
+    "snippet_text": "I really liked this place!!!\nWe arrived late (after 10pm).  The kitchen was still open!!.\nWe enjoyed appetizers (a cheese ball /fried mozzarella appetizer...", 
+    "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/2g_hDoIavTaoAaENkbSP4A/ms.jpg", 
+    "location": {
+      "cross_streets": "Beekman Pl & Midwood St", 
+      "city": "Prospect Lefferts Gardens", 
+      "display_address": [
+        "577 Flatbush Ave", 
+        "Prospect Lefferts Gardens", 
+        "Prospect Lefferts Gardens, NY 11225"
+      ], 
+      "geo_accuracy": 8.0, 
+      "neighborhoods": [
+        "Prospect Lefferts Gardens"
+      ], 
+      "postal_code": "11225", 
+      "country_code": "US", 
+      "address": [
+        "577 Flatbush Ave"
+      ], 
+      "coordinate": {
+        "latitude": 40.6596507132053, 
+        "longitude": -73.9605067670345
+      }, 
+      "state_code": "NY"
+    }, 
+    "display_phone": "+1-718-484-4466", 
+    "rating_img_url_large": "http://s3-media2.fl.yelpcdn.com/assets/2/www/img/ccf2b76faa2c/ico/stars/v1/stars_large_4.png", 
+    "id": "midwood-flats-prospect-lefferts-gardens", 
+    "snippet_image_url": "http://s3-media2.fl.yelpcdn.com/photo/OE52gKoEHVd-kgSC179Bcg/ms.jpg", 
+    "rating_img_url_small": "http://s3-media4.fl.yelpcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }
+]
+    "menu_date_updated": 1387871988
+  }
+]pcdn.com/assets/2/www/img/f62a5be2f902/ico/stars/v1/stars_small_4.png"
+  }
+]e-modern-new-york", 
     "image_url": "http://s3-media2.fl.yelpcdn.com/bphoto/c-Ug_nuhR5clg16B9byB6Q/ms.jpg", 
     "violation_score": 0, 
     "menu_provider": "single_platform", 

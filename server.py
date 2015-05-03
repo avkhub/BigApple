@@ -13,9 +13,15 @@ import os
 import json
 import csv
 import socket
+import sys
+from urlparse import urlparse
+from bs4 import BeautifulSoup
+
+reload(sys)
+sys.setdefaultencoding("utf-8")
 
 API_HOST = 'api.yelp.com'
-DEFAULT_TERM = 'restaurants'
+DEFAULT_TERM = 'restaurant'
 DEFAULT_LOCATION = 'Newyork, NY'
 SEARCH_LIMIT = 20
 SEARCH_PATH = '/v2/search/'
@@ -82,6 +88,8 @@ def search(lat , lon):
 	#'term': term.replace(' ', '+'),
 	#'location': location.replace(' ', '+'),
 	'll': lat + "," + lon,
+	#'category':"american", 
+	#'name' : "villabate alba",
 	'limit': SEARCH_LIMIT
 	
 	}
@@ -124,6 +132,7 @@ def query_api(lat,lon,csv_f):
 	included_rows = []
 	for row in csv_f:
 		included_rows.append(row)
+		filter_b = []
 	for item in businesses:
 	  try:
 		phone = item['phone']
@@ -131,17 +140,24 @@ def query_api(lat,lon,csv_f):
 		door_num = item['location']['address'][0].split()[0]
 		boro = item['location']['address'][0].split()[1]
 		name = item['name']
+		categories = item["categories"]
+		c_list = ["halal","bars" , "french","afghani","afghani","newamerican","American","arabian","argentine","vietnamese","british","belgian","buffets","burgers","cafes","cafeteria","chinese","diners","german","indpak","irish","italian","japanese","pakistani","seafood","spanish","vegetarian","mideastern","mediterranean","hotdog","foodstands","caribbean","greek","soup","steak"]
+		flag_cat = False
+		for key,value in categories:
+			 if (value in c_list):
+			 	print value
+				flag_cat = True
 		score = 0
 		violation_code = []
 		name_s = name
 		boro_s = boro
 		for row in included_rows:
 			
-			if((pincode == row[5]) and (door_num == row[3])):					
+			if((pincode == row[5]) and (door_num == row[3]) and (flag_cat) == True):					
 				
 			   	 #similarity = SequenceMatcher(None,name,row[1]).ratio()
 				 if((row[1].split()[0].lower() in name_s.lower() )==True):
-				 	
+					print flag_cat		 	
 				 	violation_code = row[10]
 				 	#calculating violation score
 				 	print violation_code
@@ -150,17 +166,46 @@ def query_api(lat,lon,csv_f):
 					for item_s in score_list:
 						score = score + int(item_s)
 					violation_code = violation_code.split(',')
-		item['violation_score'] = score
-		item['violation_codes'] = violation_code
+					item['violation_score'] = score
+					item['violation_codes'] = violation_code
 		#print item
+					filter_b.append(item)
 	  except:
 		pass
 	with open(os.getcwd()+"/yelptop20"+".txt" , "r+") as outfile:
 		json.dump(businesses,outfile,indent = 2)
 
-	return businesses
+	return filter_b
 
 
+def scrape(ur):
+	try:
+
+		json_item = {}	
+		html = urllib.urlopen(ur).read()
+		soup = BeautifulSoup(html)
+		
+		title = soup.find('h1',itemprop="name")
+		saddress = soup.find('span',itemprop="streetAddress")
+		postalcode = soup.find('span',itemprop="postalCode")
+		phone = soup.find('span', itemprop='telephone')
+		price = soup.find('span', itemprop='priceRange')
+		try:
+			rating  = soup.find('meta',{"itemprop":"ratingValue"})['content']
+			#print title.text
+		except:
+			pass
+		json_item["name"]=title.text		
+		json_item["address"]=saddress.text		
+		json_item["postalCode"]=postalcode.text		
+		json_item["rating"]=rating
+		json_item["phone"] = phone.text
+		json_item['price'] = price.text
+
+		
+		return json_item
+	except:
+		pass
 
 
 app = Flask(__name__)
@@ -170,9 +215,9 @@ app = Flask(__name__)
 
 def main(lat = None , lon = None):
 	
-	#lon = request.Args.get("lon")
-	print lat 
-	print lon
+	
+	#print lat 
+	#print lon
 	#print lon
 	parser = argparse.ArgumentParser()
 	parser.add_argument('-q', '--term', dest='term', default=DEFAULT_TERM, type=str, help='Search term (default: %(default)s)')
@@ -186,6 +231,69 @@ def main(lat = None , lon = None):
  		return jsonify(results=out_onpage)
 	except urllib2.HTTPError as error:
  		sys.exit('Encountered HTTP error {0}. Abort program.'.format(error.code))
+
+
+@app.route("/cuisine/<cname>/<cloc>")
+
+def cuisine(cname = None , cloc = None):
+	#gcontext = ssl.SSLContext(ssl.PROTOCOL_TLSv1)
+	f = open('/home/aditya/Downloads/DOHMH.csv')
+	csv_f = csv.reader(f)
+	rname = cname
+	rplace = cloc
+	urllist = []
+	rlist = []
+	r_complete = []
+	
+	json_data = {}
+
+	for row in csv_f:
+ 		if ((rname.lower() in row[1].lower()) and (rplace.lower() in row[2].lower())):
+  			rlist.append(str(row[1] + "," +row[2] + ":" + row[10] + ":" + str(row[13].split(","))))
+
+	f.close()
+	count = 0
+	for item in rlist:
+		json_item = {}
+		item = item.split(":")
+		flag = False
+		page = urllib2.urlopen('http://www.bing.com/search?q='+item[0].replace(' ','+'))
+		soup = BeautifulSoup(page)
+			
+		for anchor in soup.findAll('a', href=True):
+			#print anchor['href']
+			try:
+				
+				if(anchor["href"].startswith("http://www.yelp.com/biz/")):
+					print anchor["href"]
+					json_item = scrape(anchor["href"])
+					
+					item[1] = item[1].split(',')
+				
+					score = item[2]
+					sum = 0
+					t2 = item[2]
+					item[2] = t2[1:-1].split(",")
+					for eachitem in item[2]:
+						t2 = eachitem.strip()
+						num = t2[1:-1].strip()
+						sum = sum + int(num)				
+				
+					json_item["Violation_Score"] = sum
+					json_item["Violation_Code"] = item[1]
+					print json_item
+					count = count + 1
+					print count
+					json_data[count] = json_item
+					break
+			except:
+				pass
+
+
+	return jsonify(results=json_data)
+ 				
+		
+
 
 if __name__ == "__main__":
     app.run(debug = True)
