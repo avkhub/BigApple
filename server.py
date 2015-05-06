@@ -42,13 +42,7 @@ def request(host, path, url_params=None):
 
 	"""Prepares OAuth authentication and sends the request to the API.
 	Args:
-	host (str): The domain host of the API.
-	path (str): The path of the API after the domain.
-	url_params (dict): An optional set of query parameters in the request.
-	Returns:
-	dict: The JSON response from the request.
-	Raises:
-	urllib2.HTTPError: An error occurs from the HTTP request."""
+."""
 
 
 	url_params = url_params or {}
@@ -101,9 +95,7 @@ def get_business(business_id):
 	return request(API_HOST, business_path)
 def query_api(lat,lon,csv_f):
 	"""Queries the API by the input values from the user.
-	Args:
-	term (str): The search term to query.
-	location (str): The location of the business to query.
+
 	"""
 	
 	response = search(lat,lon)
