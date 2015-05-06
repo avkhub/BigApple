@@ -78,12 +78,7 @@ def request(host, path, url_params=None):
 
 def search(lat , lon):
 	"""Query the Search API by a search term and location.
-	Args:
-	term (str): The search term passed to the API.
-	location (str): The search location passed to the API.
-	Returns:
-	dict: The JSON response from the request.
-	"""
+		"""
 	url_params = {
 	#'term': term.replace(' ', '+'),
 	#'location': location.replace(' ', '+'),
@@ -100,10 +95,7 @@ def search(lat , lon):
 
 def get_business(business_id):
 	"""Query the Business API by a business ID.
-	Args:
-	business_id (str): The ID of the business to query.
-	Returns:
-	dict: The JSON response from the request.
+
 	"""
 	business_path = BUSINESS_PATH + business_id
 	return request(API_HOST, business_path)
@@ -122,13 +114,9 @@ def query_api(lat,lon,csv_f):
 	 print u'No businesses for {0} in {1} found.'.format(term, location)
 	 return 	
 
-	'''business_id = businesses[0]['id']
-	print u'{0} businesses found, querying business info for the top result "{1}" ...'.format(len(businesses),
-	business_id)
-	response = get_business(business_id)
+	'''
 	print u'Result for business "{0}" found:'.format(business_id)
-	pprint.pprint(response, indent=2)
-	print ((businesses[0]['location']['address']))'''
+'''
 	included_rows = []
 	for row in csv_f:
 		included_rows.append(row)
