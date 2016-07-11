@@ -18,8 +18,8 @@ def get_results(params):
 	consumer_secret = "YOUR_SECRET"
 	token = "YOUR_TOKEN"
 	token_secret = "YOUR_TOKEN_SECRET"
-	session = oauth2.Consumer( "YyxPpfcHzWoMafYXCxMNew"
-	,"Y_4w9viUCaJB0DSpJKgkbD4dqOk")
+	session = oauth2.Consumer( "xxx"
+	,"xxx")
 	request = session.get("http://api.yelp.com/v2/search",params=params)
 	#Transforms the JSON API response into a Python dictionary
 	data = request.json()
