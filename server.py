@@ -27,10 +27,10 @@ SEARCH_LIMIT = 20
 SEARCH_PATH = '/v2/search/'
 BUSINESS_PATH = '/v2/business/'
 # OAuth credential placeholders that must be filled in by users.
-CONSUMER_KEY = "YyxPpfcHzWoMafYXCxMNew"
-CONSUMER_SECRET = "Y_4w9viUCaJB0DSpJKgkbD4dqOk"
-TOKEN = "yZ1weFpd9FAk-5Ej8jilKuMGvK6v6-7j"
-TOKEN_SECRET = "U9hpSGKWyoPjKTtTt34I-8qJw7Y"
+CONSUMER_KEY = "xxx"
+CONSUMER_SECRET = "xxx"
+TOKEN = "xxx"
+TOKEN_SECRET = "xxx"
 
 def similar(a,b):
 	return SequenceMatcher(None, a , b).ratio()
